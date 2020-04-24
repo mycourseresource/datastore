@@ -1,0 +1,22 @@
+{
+	"name": "Stefan",
+	"hobbies": ["coding", "music", "cycling"],
+	"smoker": false,
+	"youtubeYears": 0,
+	"books": [{
+			"title": "Book Title 1",
+			"author": "Author 1",
+			"ISBN": "123-456-456-4444"
+		},
+		{
+			"title": "Book Title 2",
+			"author": "Author 2",
+			"ISBN": "223-456-456-4444"
+		},
+		{
+			"title": "Book Title 3",
+			"author": "Author 3",
+			"ISBN": "323-456-456-4444"
+		}
+	]
+}
