@@ -1,1 +1,21 @@
-
+---
+ct:
+  title: Computing Terms
+  rev: '0.1'
+  updated: 07/12/2022
+  format: English
+  modules:
+  - code: 5N0548
+    title: Computer Systems Hardware
+  - code: 5N2927
+    title: Programming & Design Principles
+  data:
+  - term: Floppy Disk
+    desc: A flexible removable magnetic disk (typically encased in a hard plastic
+      shell) for storing data.
+    code:
+    - 5N0548
+  - term: Python
+    desc: One type of coding language, known for its simplicity and versatility.
+    code:
+    - 5N2927
