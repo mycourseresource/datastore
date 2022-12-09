@@ -9,6 +9,20 @@ ct:
     title: Computer Systems Hardware
   - code: 5N2927
     title: Programming & Design Principles
+  - code: 5N2929
+    title: Networking Essentials
+  - code: 5N2434
+    title: Virtualisation Support
+  - code: 6N0733
+    title: Network Infrastructure
+  - code: 6N0720
+    title: Network Security
+  - code: 6N2093
+    title: Physical and Logical Networking
+  - code: 6N1411
+    title: Systems Software
+  - code: 6N1294
+    title: Virtualisation Support
   data:
   - term: Floppy Disk
     desc: A flexible removable magnetic disk (typically encased in a hard plastic
@@ -19,3 +33,23 @@ ct:
     desc: One type of coding language, known for its simplicity and versatility.
     code:
     - 5N2927
+  - term: DHCP
+    desc: abbr. for Dynamic Host Configurations Protocol
+    code:
+    - 5N2929
+    - 5N2434
+    - 6N0733
+    - 6N0720
+    - 6N2093
+    - 6N1411
+    - 6N1294
+  - term: Dynamic Host Configurations Protocol
+    desc: A client/server protocol that automtically assigns IP addresses to clients and other details such as default gateway and DNS addresses.
+    code:
+    - 5N2929
+    - 5N2434
+    - 6N0733
+    - 6N0720
+    - 6N2093
+    - 6N1411
+    - 6N1294
