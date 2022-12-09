@@ -1,10 +1,12 @@
 ---
 ct:
   title: Computing Terms
-  rev: '0.1'
-  updated: 07/12/2022
+  rev: '0.3'
+  updated: 09/12/2022 11:07
   format: English
   modules:
+  - code: 5N0583
+    title: ICT Security Policy and Management
   - code: 5N0548
     title: Computer Systems Hardware
   - code: 5N2927
@@ -36,13 +38,6 @@ ct:
   - term: DHCP
     desc: abbr. for Dynamic Host Configurations Protocol
     code:
-    - 5N2929
-    - 5N2434
-    - 6N0733
-    - 6N0720
-    - 6N2093
-    - 6N1411
-    - 6N1294
   - term: Dynamic Host Configurations Protocol
     desc: A client/server protocol that automtically assigns IP addresses to clients and other details such as default gateway and DNS addresses.
     code:
@@ -53,3 +48,31 @@ ct:
     - 6N2093
     - 6N1411
     - 6N1294
+  - term: FTP
+    desc: abbr. for File Transfer Protocol
+    code:
+  - term: File Transfer Protocol
+    desc: Protocol that allows a client to download and upload a file over the internet from a server.
+    code:
+    - 6N0733
+    - 6N0720
+    - 6N2093
+    - 6N1294
+    - 5N2929
+    - 5N2928
+    - 5N2434
+  - term: DNS
+    desc: abbr. for Domain Name System
+    code:
+  - term: Domain Name System
+    desc: Translates domain names into a IP address allowing clients to access websites or other network devices with a domain name.
+    code:
+    - 6N0733
+    - 6N0720
+    - 6N2093
+    - 6N1411
+    - 6N1294
+    - 5N0583
+    - 5N2928
+    - 5N2929
+    - 5N2434   
