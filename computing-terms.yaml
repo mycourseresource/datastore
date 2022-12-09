@@ -1,8 +1,8 @@
 ---
 ct:
   title: Computing Terms
-  rev: '0.3'
-  updated: 09/12/2022 11:07
+  rev: '0.4'
+  updated: '09/12/2022 11:40'
   format: English
   modules:
   - code: 5N0583
@@ -37,9 +37,9 @@ ct:
     - 5N2927
   - term: DHCP
     desc: abbr. for Dynamic Host Configurations Protocol
-    code:
+    code: abbr
   - term: Dynamic Host Configurations Protocol
-    desc: A client/server protocol that automtically assigns IP addresses to clients and other details such as default gateway and DNS addresses.
+    desc: A client/server protocol that allows automatically assigning IP addresses to clients and other details such as default gateway and DNS addresses.
     code:
     - 5N2929
     - 5N2434
@@ -50,7 +50,7 @@ ct:
     - 6N1294
   - term: FTP
     desc: abbr. for File Transfer Protocol
-    code:
+    code: abbr
   - term: File Transfer Protocol
     desc: Protocol that allows a client to download and upload a file over the internet from a server.
     code:
@@ -63,7 +63,7 @@ ct:
     - 5N2434
   - term: DNS
     desc: abbr. for Domain Name System
-    code:
+    code: abbr
   - term: Domain Name System
     desc: Translates domain names into a IP address allowing clients to access websites or other network devices with a domain name.
     code:
@@ -76,3 +76,31 @@ ct:
     - 5N2928
     - 5N2929
     - 5N2434   
+  - term: SSH
+    desc: abbr. for Secure Shell
+    code: abbr
+  - term: Secure Shell
+    desc: A network communication protocol allowing two computers to communicate and share data.
+    code:
+    - 6N0733
+    - 6N0735
+    - 6N0720
+    - 6N2093
+    - 6N1411
+    - 6N1294
+    - 5N0583
+    - 5N2928
+    - 5N2929
+    - 5N2434   
+  - term: IPS
+    desc: abbr. for Intrusion Prevention System
+    code: abbr
+  - term: Intrusion Prevention System
+    desc: A network tool that continuously monitors a network for malicious activity and takes action to prevent it.
+    code:
+    - 5N0583  
+    - 6N0720
+    - 6N0733
+    - 6N0735
+    - 6N1294
+    - 6N1411
