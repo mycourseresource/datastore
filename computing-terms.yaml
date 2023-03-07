@@ -116,6 +116,6 @@ ct:
     desc: abbr. for Application Programming Interface  
     code: abbr  
   - term: Application Programming Interface  
-    desc: It is a type of software interface that allows two or more computer applications to communicate with each other.
+    desc: A type of software interface that allows two or more computer applications to communicate with each other.
     code:
     - 5N2927  
