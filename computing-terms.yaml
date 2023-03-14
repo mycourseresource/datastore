@@ -46,7 +46,7 @@ ct:
   - term: DHCP
     desc: abbr. for Dynamic Host Configurations Protocol
     code: abbr
-  - term: Dynamic Host Configurations Protocol
+  - term: Dynamic Host Configurations Protocol (DHCP)
     desc: A client/server protocol that allows automatically assigning IP addresses to clients and other details such as default gateway and DNS addresses.
     code:
     - 5N2929
@@ -59,7 +59,7 @@ ct:
   - term: FTP
     desc: abbr. for File Transfer Protocol
     code: abbr
-  - term: File Transfer Protocol
+  - term: File Transfer Protocol (FTP)
     desc: Protocol that allows a client to download and upload a file over the internet from a server.
     code:
     - 6N0733
@@ -72,7 +72,7 @@ ct:
   - term: DNS
     desc: abbr. for Domain Name System
     code: abbr
-  - term: Domain Name System
+  - term: Domain Name System (DNS)
     desc: Translates domain names into a IP address allowing clients to access websites or other network devices with a domain name.
     code:
     - 6N0733
@@ -87,7 +87,7 @@ ct:
   - term: SSH
     desc: abbr. for Secure Shell
     code: abbr
-  - term: Secure Shell
+  - term: Secure Shell (SSH)
     desc: A network communication protocol allowing two computers to communicate and share data.
     code:
     - 6N0733
@@ -103,7 +103,7 @@ ct:
   - term: IPS
     desc: abbr. for Intrusion Prevention System
     code: abbr
-  - term: Intrusion Prevention System
+  - term: Intrusion Prevention System (IPS))
     desc: A network tool that continuously monitors a network for malicious activity and takes action to prevent it.
     code:
     - 5N0583  
@@ -115,7 +115,22 @@ ct:
   - term: API  
     desc: abbr. for Application Programming Interface  
     code: abbr  
-  - term: Application Programming Interface  
+  - term: Application Programming Interface (API)  
     desc: A type of software interface that allows two or more computer applications to communicate with each other.
     code:
     - 5N2927  
+  - term: Wi-Fi  
+    desc: abbr. for Wireless Fidelity  
+    code: abbr  
+  - term: Wireless Fidelity (Wi-Fi)  
+    desc: Wireless network protocols commonly used for local area networking of computers and other Wi-Fi enabled electronic equipment.  
+    code:  
+    - 6N0548  
+    - 6N0583  
+    - 5N2928  
+    - 5N2929
+    - 6N0720  
+    - 6N0733  
+    - 6N0735  
+    - 6N2093  
+    
