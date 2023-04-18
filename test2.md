@@ -1,3 +1,5 @@
+WE WILL REVIEW YOUR ANSWERS AT 14:45
+====================================
 1. What would be the optimal filing system choice for a typical Linux Ubuntu installation? Explain two features of this file system. (6 minutes) 
 2. The performance of your Windows operating system has degraded over time. Describe three strategies you can use to improve response time and increase your level of productivity. (9 minutes) 
 3. Name and descirbe ten different DOS commands. (15 minutes) 
