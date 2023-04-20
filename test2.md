@@ -20,10 +20,10 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 17. Discuss access and network security concerns for data centre operations. (9 minutes) 
 18. In terms of performance and security monitoring of a WAN, what roles play ISP carrier(s). (6 minutes)
 19. Name 3 networking medias and describe in what form do these methods transmit data? (9 minutes)
-20. What classes do the following IP addresses belong to? (6 minutes) 
-    •	192.168.10.26   
-    •	172.16.14.11   
-    •	114.15.13.112  
+20. What classes do the following IP addresses belong to? (6 minutes)      
+     •	192.168.10.26   
+     •	172.16.14.11   
+     •	114.15.13.112  
 21. Name and describe the layers of the OSI reference model. (21 minutes) 
 22. Describe the options available to a network administrator in terms of backing up data. Categorise your answer for ‘onsite backup’ and ‘offsite backup’. (6 minutes)
 23. What are the maximum recommended lengths of a Cat5e and a Cat6a cable? (6 minutes) 
