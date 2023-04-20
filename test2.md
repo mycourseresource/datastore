@@ -11,4 +11,10 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 9. List and briefly explain two types of firewalls. (6 minutes)
 10. Describe the required network infrastructure to enable the operation of a data centre. (9 minutes)
 11. What impact has VPN tunnelling on network infrastructures? (6 minutes)
-12. Compare and contrast the terms data centre and cloud services. (9 minutes)
+12. Compare and contrast the terms data centre and cloud services. (9 minutes) 
+
+13. List and explain two network types that use TCP/IP Protocols. (6 minutes)
+14. Describe historical issues around subnetting of classful addresses. (6 minutes) 
+15. Name and briefly describe four CLI commands to test connectivity. (6 minutes) 
+16. Describe the physical and logical layout aspects of a WAN. (12 minutes) 
+17. Discuss access and network security concerns for data centre operations. (9 minutes) 
