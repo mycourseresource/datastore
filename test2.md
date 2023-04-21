@@ -27,6 +27,7 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 21. Name and describe the layers of the OSI reference model. (21 minutes) 
 22. Describe the options available to a network administrator in terms of backing up data. Categorise your answer for ‘onsite backup’ and ‘offsite backup’. (6 minutes)
 23. What are the maximum recommended lengths of a Cat5e and a Cat6a cable? (6 minutes) 
+
    
    
 24. Name the four layers of the TCP/IP model and the corresponding OSI layers. (6 minutes) 
@@ -34,7 +35,16 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 26. Describe the structure and types of IPv6 addresses. (6 minutes) 
 27. Name one commonly used network topology for small business networks and briefly state 3 advantages and/or disadvantages of this topology. (6 minutes)  
 28. Name and briefly describe two network services that are commonly found on a LAN. (6 minutes)   
-29. Briefly explain how network monitoring will help to meet network availability. (6 minutes)    
+
+29. Briefly explain how network monitoring will help to meet network availability. (6 minutes)  
+30. Explain the importance of network redundancy for maintaining service level agreements. (6 minutes)  
+31. What is a multi-user OS? Give an example of where one might be used. (6 minutes)
+32. State four functions of an operating system. (6 minutes)
+33. OS systems make use of device drivers. Describe what is meant by device drivers. (6 minutes)
+34. Describe the purpose of a graphical user interface. (3 minutes)
+35. Define what is meant by a command line interface. (3 minutes)
+36. Identify two benefits of using a command line interface instead of a GUI. (6 minutes)
+
 
 
 
