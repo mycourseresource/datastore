@@ -34,6 +34,7 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 26. Describe the structure and types of IPv6 addresses. (6 minutes) 
 27. Name one commonly used network topology for small business networks and briefly state 3 advantages and/or disadvantages of this topology. (6 minutes)  
 28. Name and briefly describe two network services that are commonly found on a LAN. (6 minutes)   
+29. Briefly explain how network monitoring will help to meet network availability. (6 minutes)    
 
 
 
