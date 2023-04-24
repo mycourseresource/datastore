@@ -47,6 +47,18 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
   
   
 37. Give two examples of a Network Operating System. (-6 minutes-)  
+38. Name a private internal network implemented and maintained by an individual company or organization?
+39. Which of the following protocols operate at the TCP/IP application layer: TCP, SMTP, IP, UDP?  
+40. Which of the following protocols does not operate at the application layer of the TCP/IP architecture: ARP, FTP, POP, DNS?  
+41. Name a private network that also includes outside partners?  
+42. Which of the following protocols does not operate at the Internet layer of the TCP/IP architecture: ICMP, IGMP, RIP, ARP?  
+43. Give the typical requirements of a secure distributed system.  
+44. Explain how public key cryptography may be used for identification.  
+45. Describe how a man-in-the-middle attack may be performed on a Wi-Fi network and the consequences of such an attack.  
+46. Explain how a man-in-the-middle attack on a Wi-Fi network can be defeated.  
+47. In general, there are three types of identity authentication tasks. List these tasks.   
+48. An ideal password authentication scheme has to withstand a number of attacks. Describe five of these attacks.  
+49. Describe the goals an ideal password authentication scheme should achieve.     
 
 
 
