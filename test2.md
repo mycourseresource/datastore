@@ -44,8 +44,8 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 34. Describe the purpose of a graphical user interface. (3 minutes)
 35. Define what is meant by a command line interface. (3 minutes)
 36. Identify two benefits of using a command line interface instead of a GUI. (6 minutes)
-  
-  
+&nbsp;  
+&nbsp;  
 37. Give two examples of a Network Operating System. (-6 minutes-)  
 38. Name a private internal network implemented and maintained by an individual company or organization?
 39. Which of the following protocols operate at the TCP/IP application layer: TCP, SMTP, IP, UDP?  
@@ -58,7 +58,23 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 46. Explain how a man-in-the-middle attack on a Wi-Fi network can be defeated.  
 47. In general, there are three types of identity authentication tasks. List these tasks.   
 48. An ideal password authentication scheme has to withstand a number of attacks. Describe five of these attacks.  
-49. Describe the goals an ideal password authentication scheme should achieve.     
+49. Describe the goals an ideal password authentication scheme should achieve.    
+50. Describe the three main concerns with the use of passwords for authentication. Explain what is meant by a social engineering attack on a password.  
+51. Explain how attacks on passwords are broadly classified.   
+52. Explain how access control lists are use to represent access control matrices. Describe the environments in which they are widely used and their advantages and disadvantages.   
+&nbsp;   
+53. Suppose the following groups are defined to shorten a system’s access control lists:  
+– Group1: Alice, Bob, Cynthia, David, Eve  
+– Group2: Alice, Bob, Cynthia  
+– Group3: Bob, Cynthia  
+&nbsp;   
+Suppose the access control list for File 1 is:  
+– File 1: Group 1, R; Group 2, RW   
+&nbsp;   
+If Alice wants to write to File 1 giving your reasoning state whether Alice will be allowed to do so.
+&nbsp;   
+54. 
+
 
 
 
