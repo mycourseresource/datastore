@@ -44,6 +44,9 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 34. Describe the purpose of a graphical user interface. (3 minutes)
 35. Define what is meant by a command line interface. (3 minutes)
 36. Identify two benefits of using a command line interface instead of a GUI. (6 minutes)
+  
+  
+37. Give two examples of a Network Operating System. (-6 minutes-)  
 
 
 
