@@ -15,4 +15,26 @@
 14. Name one describe two general roles of an operating system. (6 minutes)
 15. What is the kernel? (3 minutes)
 16. What are privileged instructions? (3 minutes)
-17. What is the preferred file system for Windows? Explain two features of this file system. (3 minutes)
+17. What is the preferred file system for Windows? Explain two features of this file system. (3 minutes) 
+&nbsp;   
+&nbsp;   
+18. What is the purpose of a router in a network?  
+19. What is a MAC address?   
+20. What is the difference between TCP and UDP?   
+21. What is a subnet mask?  
+22. What is a firewall?   
+23. What is the difference between a hub and a switch?   
+24. What is DNS?   
+25. What is a proxy server?    
+26. What is NAT?   
+27. What is a VLAN?   
+28. What is the purpose of a DHCP server?    
+29. What is a gateway?   
+30. What is a router's default gateway?    
+31. What is a subnet?    
+32. What is a repeater?    
+33. What is a mesh network?    
+34. What is bandwidth?    
+35. What is a port number?   
+36. What is a VPN?   
+37. What is QoS?    
