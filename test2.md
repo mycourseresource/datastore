@@ -73,7 +73,23 @@ Suppose the access control list for File 1 is:
 &nbsp;   
 If Alice wants to write to File 1 giving your reasoning state whether Alice will be allowed to do so.
 &nbsp;   
-54. 
+&nbsp;   
+&nbsp;   
+54. Explain the term redundancy.  
+55. Why should electrical cables and data cables not run side by side?   
+56. Name and briefly describe two types of SFP transceivers.  
+57. What is a domain controller and what would be one of the main pieces of software on a domain controller?   
+58. A network administrator is trying to join a Windows PC to the domain but an error message relating to DNS is appearing. What are two likely causes of the problem?  
+59. Explain the difference between a Network Architect and a Network Technician.   
+60. Most organisations give free WIFI connectivity. Why could this be a possible security threat?   
+61. In a data center, what is significant about the air temperature along the hot and cold aisles?   
+62. What security measures should be taken into consideration when designing a server room?   
+63. Explain what options are available to a network technician to create redundancy in a data network?     
+64. Name a x-platform script type and briefly describe how scripting can be used for x-platform software rollout?     
+65. A network administrator has started working in an organisation but has realised that there is no documentation relating to the data network. How can the administrator establish a list of the devices that exist on the network?   
+66. A network user has lost connectivity to their shared network printer. List three possible causes and 3 possible solutions to this problem?      
+
+
 
 
 
