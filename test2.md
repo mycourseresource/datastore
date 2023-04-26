@@ -12,7 +12,7 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 10. Describe the required network infrastructure to enable the operation of a data centre. (9 minutes)
 11. What impact has VPN tunnelling on network infrastructures? (6 minutes)
 12. Compare and contrast the terms data centre and cloud services. (9 minutes) 
-  
+&nbsp;   
 13. List and explain two network types that use TCP/IP Protocols. (6 minutes)
 14. Describe historical issues around subnetting of classful addresses. (6 minutes) 
 15. Name and briefly describe four CLI commands to test connectivity. (6 minutes) 
@@ -27,15 +27,15 @@ WE WILL REVIEW YOUR ANSWERS AT 14:45
 21. Name and describe the layers of the OSI reference model. (21 minutes) 
 22. Describe the options available to a network administrator in terms of backing up data. Categorise your answer for ‘onsite backup’ and ‘offsite backup’. (6 minutes)
 23. What are the maximum recommended lengths of a Cat5e and a Cat6a cable? (6 minutes) 
-
-   
-   
+&nbsp;   
+&nbsp;      
+&nbsp;      
 24. Name the four layers of the TCP/IP model and the corresponding OSI layers. (6 minutes) 
 25. Name four networking devices and state at which layer they operate. (6 minutes)  
 26. Describe the structure and types of IPv6 addresses. (6 minutes) 
 27. Name one commonly used network topology for small business networks and briefly state 3 advantages and/or disadvantages of this topology. (6 minutes)  
 28. Name and briefly describe two network services that are commonly found on a LAN. (6 minutes)   
-
+&nbsp;   
 29. Briefly explain how network monitoring will help to meet network availability. (6 minutes)  
 30. Explain the importance of network redundancy for maintaining service level agreements. (6 minutes)  
 31. What is a multi-user OS? Give an example of where one might be used. (6 minutes)
@@ -87,8 +87,21 @@ If Alice wants to write to File 1 giving your reasoning state whether Alice will
 63. Explain what options are available to a network technician to create redundancy in a data network?     
 64. Name a x-platform script type and briefly describe how scripting can be used for x-platform software rollout?     
 65. A network administrator has started working in an organisation but has realised that there is no documentation relating to the data network. How can the administrator establish a list of the devices that exist on the network?   
-66. A network user has lost connectivity to their shared network printer. List three possible causes and 3 possible solutions to this problem?      
-
+66. A network user has lost connectivity to their shared network printer. List three possible causes and 3 possible solutions to this problem?  
+&nbsp;   
+&nbsp; 
+67. Explain the difference between a physical and logical topology.    
+68. How does a router differ from a switch?   
+69. What is a VLAN and how does it work?   
+70. What is the OSI model and what are its seven layers?    
+71. What is a subnet mask and how is it used in networking?   
+72. What is NAT and how does it work?   
+73. What is a DNS server and how does it work?   
+74. What is a firewall and how does it work?   
+75. What is the difference between TCP and UDP?   
+76. What is a VPN and how does it work?   
+&nbsp;   
+&nbsp; 
 
 
 
