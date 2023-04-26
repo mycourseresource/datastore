@@ -102,6 +102,26 @@ If Alice wants to write to File 1 giving your reasoning state whether Alice will
 76. What is a VPN and how does it work?   
 &nbsp;   
 &nbsp; 
+77. What is a zero-day vulnerability and how can it be mitigated?  
+78. What is a rootkit and how does it work?  
+79. What is a DMZ and how does it improve network security?   
+80. What is a phishing attack and how can it be prevented?  
+81. What is a virus and how does it spread?   
+82. What is two-factor authentication and how does it improve security?   
+83. What is a honeypot and how is it used in network security?   
+84. What is a virtual private network (VPN) and how does it improve network security?   
+85. What is encryption and how does it protect data in transit and at rest?   
+86. What is an Intrusion Detection System (IDS) and how does it work?  
+87. What is a Denial of Service (DoS) attack and how can it be prevented?   
+88. What is a firewall and how does it protect a network?   
+89. What is the difference between a threat and a vulnerability?    
+90. What is the difference between symmetric and asymmetric encryption?   
+91. What is a Distributed Denial of Service (DDoS) attack and how can it be prevented?   
+92. What is a buffer overflow attack and how can it be prevented?   
+93. What is a man-in-the-middle (MITM) attack and how can it be prevented?   
+94. What is a network vulnerability assessment and how is it conducted?   
+95. What is a security policy and why is it important?   
+96. What is a penetration test and how is it conducted?    
 
 
 
