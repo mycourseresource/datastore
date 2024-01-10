@@ -3,82 +3,82 @@
         "title": "Irish School Holidays",
         "rev": "0.1",
         "updated": "10/01/2024",
-        "format": "Irish"
-    },
-    "dates": {
-        "2024": [
-            [
-                "02/01/2024",
-                "Christmas Holidays"
-            ],
-            [
-                "03/01/2024",
-                "Christmas Holidays"
-            ],
-            [
-                "04/01/2024",
-                "Christmas Holidays"
-            ],
-            [
-                "05/01/2024",
-                "Christmas Holidays"
-            ],
-            [
-                "12/02/2024",
-                "February Mid-Term Break"
-            ],
-            [
-                "13/02/2024",
-                "February Mid-Term Break"
-            ],
-            [
-                "14/02/2024",
-                "February Mid-Term Break"
-            ],
-            [
-                "15/02/2024",
-                "February Mid-Term Break"
-            ],
-            [
-                "16/02/2024",
-                "February Mid-Term Break"
-            ],
-            [
-                "25/03/2024",
-                "Easter Holidays"
-            ],
-            [
-                "26/03/2024",
-                "Easter Holidays"
-            ],
-            [
-                "27/03/2024",
-                "Easter Holidays"
-            ],
-            [
-                "28/03/2024",
-                "Easter Holidays"
-            ],
-            [
-                "29/03/2024",
-                "Easter Holidays"
-            ],
-            [
-                "02/04/2024",
-                "Easter Holidays"
-            ],
-            [
-                "03/04/2024",
-                "Easter Holidays"
-            ],
-            [
-                "04/04/2024",
-                "Easter Holidays"
-            ],
-            [
-                "05/04/2024",
-                "Easter Holidays"
+        "format": "Irish",
+        "dates": {
+            "2024": [
+                [
+                    "02/01/2024",
+                    "Christmas Holidays"
+                ],
+                [
+                    "03/01/2024",
+                    "Christmas Holidays"
+                ],
+                [
+                    "04/01/2024",
+                    "Christmas Holidays"
+                ],
+                [
+                    "05/01/2024",
+                    "Christmas Holidays"
+                ],
+                [
+                    "12/02/2024",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "13/02/2024",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "14/02/2024",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "15/02/2024",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "16/02/2024",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "25/03/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "26/03/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "27/03/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "28/03/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "29/03/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "02/04/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "03/04/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "04/04/2024",
+                    "Easter Holidays"
+                ],
+                [
+                    "05/04/2024",
+                    "Easter Holidays"
+                ]
             ]
-        ]
+        }
     }
 }
