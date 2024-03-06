@@ -1,373 +1,427 @@
 {
-    "Pets": [
-        {
-            "Typ": "Dog",
-            "Name": "Darky",
-            "Height": 2,
-            "Unit": "foot",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "1970-07-19"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Ann",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "2020-04-01"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Domino",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "Grey",
-            "OwnIt": true,
-            "DOB": "2013-09-03"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Yorkie",
-            "Height": 20,
-            "Unit": "cm",
-            "Colour": "Brown",
-            "OwnIt": true,
-            "DOB": "2015-07-07"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Penny",
-            "Height": 70,
-            "Unit": "cm",
-            "Colour": "Golden Yellow",
-            "OwnIt": true,
-            "DOB": "2014-06-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Jeddy",
-            "Height": 20,
-            "Unit": "cm",
-            "Colour": "Brown White",
-            "OwnIt": true,
-            "DOB": "2018-06-01"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Fluffy",
-            "Height": 32,
-            "Unit": "cm",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "2010-09-17"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Cookie",
-            "Height": 26,
-            "Unit": "cm",
-            "Colour": "Silver",
-            "OwnIt": true,
-            "DOB": "2022-03-29"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Trixie",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "White Black Ginger",
-            "OwnIt": true,
-            "DOB": "2015-10-28"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Bailey",
-            "Height": "",
-            "Unit": "",
-            "Colour": "White Brown Black",
-            "OwnIt": true,
-            "DOB": ""
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Noodles",
-            "Height": 45,
-            "Unit": "cm",
-            "Colour": "White",
-            "OwnIt": true,
-            "DOB": "2021-01-01"
-        },
-        {
-            "Typ": "Bulldog",
-            "Name": "Luigi",
-            "Height": 16,
-            "Unit": "inches",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "2019-04-10"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Pickles",
-            "Height": 1,
-            "Unit": "m",
-            "Colour": "Ginger",
-            "OwnIt": true,
-            "DOB": "2021-07-23"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Badger",
-            "Height": 15,
-            "Unit": "cm",
-            "Colour": "Black White",
-            "OwnIt": true,
-            "DOB": "2022-10-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Rex",
-            "Height": 1,
-            "Unit": "foot",
-            "Colour": "Brown White",
-            "OwnIt": true,
-            "DOB": "2020-06-01"
-        },
-        {
-            "Typ": "Bird",
-            "Name": "Anastasia",
-            "Height": 0.11,
-            "Unit": "m",
-            "Colour": "White",
-            "OwnIt": true,
-            "DOB": "1996-11-01"
-        },
-        {
-            "Typ": "Catey",
-            "Name": "",
-            "Height": "",
-            "Unit": "",
-            "Colour": "White Brown Black",
-            "OwnIt": true,
-            "DOB": ""
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Noodles",
-            "Height": 45,
-            "Unit": "cm",
-            "Colour": "White",
-            "OwnIt": true,
-            "DOB": "2021-01-01"
-        },
-        {
-            "Typ": "Bulldog",
-            "Name": "Luigi",
-            "Height": 16,
-            "Unit": "inches",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "2019-04-10"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Pickles",
-            "Height": 1,
-            "Unit": "m",
-            "Colour": "Ginger",
-            "OwnIt": true,
-            "DOB": "2021-07-23"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Badger",
-            "Height": 15,
-            "Unit": "cm",
-            "Colour": "Black White",
-            "OwnIt": true,
-            "DOB": "2022-10-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Rex",
-            "Height": 1,
-            "Unit": "foot",
-            "Colour": "Brown White",
-            "OwnIt": true,
-            "DOB": "2020-06-01"
-        },
-        {
-            "Typ": "Bird",
-            "Name": "Anastasia",
-            "Height": 0.11,
-            "Unit": "m",
-            "Colour": "White",
-            "OwnIt": true,
-            "DOB": "1996-11-01"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Trixie",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "White Black Ginger",
-            "OwnIt": true,
-            "DOB": "2015-10-28"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Bosco",
-            "Height": 25,
-            "Unit": "cm",
-            "Colour": "Black with brown lips and white marking on chest",
-            "OwnIt": false,
-            "DOB": "2019-04-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Coco",
-            "Height": 40,
-            "Unit": "cm",
-            "Colour": "Brown",
-            "OwnIt": true,
-            "DOB": "2012-07-19"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Shadow",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "Black",
-            "OwnIt": true,
-            "DOB": "2008-07-04"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Coco",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "Black + White",
-            "OwnIt": false,
-            "DOB": "2018-03-12"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Philip",
-            "Height": 1,
-            "Unit": "ft",
-            "Colour": "Black+White",
-            "OwnIt": true,
-            "DOB": "2020-03-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Sporty",
-            "Height": 37,
-            "Unit": "cm",
-            "Colour": "Black",
-            "OwnIt": false,
-            "DOB": "2021-02-02"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Rambo",
-            "Height": 110,
-            "Unit": "cm",
-            "Colour": "Brown",
-            "OwnIt": true,
-            "DOB": "2007/06/27"
-        },
-        {
-            "Typ": "Goldfish",
-            "Name": "Pumpkin",
-            "Height": 12,
-            "Unit": "cm",
-            "Colour": "Orange",
-            "OwnIt": false,
-            "DOB": "2023-11-07"
-        },
-        {
-            "Typ": "Cat",
-            "Name": "Marshmello",
-            "Height": 20,
-            "Unit": "cm",
-            "Colour": "Ginger",
-            "OwnIt": true,
-            "DOB": "2019-12-02"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Bronco",
-            "Height": 90,
-            "Unit": "cm",
-            "Colour": "Brown",
-            "OwnIt": false,
-            "DOB": "2021-06-01"
-        },
-        {
-            "Typ": "Fish",
-            "Name": "Shark",
-            "Height": 11,
-            "Unit": "cm",
-            "Colour": "Brown/Gold",
-            "OwnIt": true,
-            "DOB": ""
-        },
-        {
-            "Typ": "Frog",
-            "Name": "Shrek",
-            "Height": 3,
-            "Unit": "cm",
-            "Colour": "Green Brown",
-            "OwnIt": true,
-            "DOB": "2017-05-15"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Coco",
-            "Height": 6,
-            "Unit": "in",
-            "Colour": "Fawn",
-            "OwnIt": true,
-            "DOB": "2015-01-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Bella",
-            "Height": 12,
-            "Unit": "in",
-            "Colour": "Golden Brown",
-            "OwnIt": true,
-            "DOB": "2022-01-01"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Sussy",
-            "Height": 30,
-            "Unit": "cm",
-            "Colour": "White",
-            "OwnIt": true,
-            "DOB": "2018-05-03"
-        },
-        {
-            "Typ": "Dog",
-            "Name": "Misty",
-            "Height": 31,
-            "Unit": "cm",
-            "Colour": "Brown with white chest",
-            "OwnIt": true,
-            "DOB": "2018-04-01"
-        },
-        {
-            "Typ": "Fish",
-            "Name": "Beta",
-            "Height": 5,
-            "Unit": "cm",
-            "Colour": "Black/Blue",
-            "OwnIt": true,
-            "DOB": "2023-07-28"
-        }
-    ]
+  "Pets": [
+    {
+      "Typ": "Dog",
+      "Name": "Darky",
+      "Height": 2,
+      "Unit": "foot",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "1970-07-19"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Ann",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "2020-04-01"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Domino",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "Grey",
+      "OwnIt": true,
+      "DOB": "2013-09-03"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Yorkie",
+      "Height": 20,
+      "Unit": "cm",
+      "Colour": "Brown",
+      "OwnIt": true,
+      "DOB": "2015-07-07"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Penny",
+      "Height": 70,
+      "Unit": "cm",
+      "Colour": "Golden Yellow",
+      "OwnIt": true,
+      "DOB": "2014-06-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Jeddy",
+      "Height": 20,
+      "Unit": "cm",
+      "Colour": "Brown White",
+      "OwnIt": true,
+      "DOB": "2018-06-01"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Fluffy",
+      "Height": 32,
+      "Unit": "cm",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "2010-09-17"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Cookie",
+      "Height": 26,
+      "Unit": "cm",
+      "Colour": "Silver",
+      "OwnIt": true,
+      "DOB": "2022-03-29"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Trixie",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "White Black Ginger",
+      "OwnIt": true,
+      "DOB": "2015-10-28"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Bailey",
+      "Height": "",
+      "Unit": "",
+      "Colour": "White Brown Black",
+      "OwnIt": true,
+      "DOB": ""
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Noodles",
+      "Height": 45,
+      "Unit": "cm",
+      "Colour": "White",
+      "OwnIt": true,
+      "DOB": "2021-01-01"
+    },
+    {
+      "Typ": "Bulldog",
+      "Name": "Luigi",
+      "Height": 16,
+      "Unit": "inches",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "2019-04-10"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Pickles",
+      "Height": 1,
+      "Unit": "m",
+      "Colour": "Ginger",
+      "OwnIt": true,
+      "DOB": "2021-07-23"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Badger",
+      "Height": 15,
+      "Unit": "cm",
+      "Colour": "Black White",
+      "OwnIt": true,
+      "DOB": "2022-10-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Rex",
+      "Height": 1,
+      "Unit": "foot",
+      "Colour": "Brown White",
+      "OwnIt": true,
+      "DOB": "2020-06-01"
+    },
+    {
+      "Typ": "Bird",
+      "Name": "Anastasia",
+      "Height": 0.11,
+      "Unit": "m",
+      "Colour": "White",
+      "OwnIt": true,
+      "DOB": "1996-11-01"
+    },
+    {
+      "Typ": "Catey",
+      "Name": "",
+      "Height": "",
+      "Unit": "",
+      "Colour": "White Brown Black",
+      "OwnIt": true,
+      "DOB": ""
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Noodles",
+      "Height": 45,
+      "Unit": "cm",
+      "Colour": "White",
+      "OwnIt": true,
+      "DOB": "2021-01-01"
+    },
+    {
+      "Typ": "Bulldog",
+      "Name": "Luigi",
+      "Height": 16,
+      "Unit": "inches",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "2019-04-10"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Pickles",
+      "Height": 1,
+      "Unit": "m",
+      "Colour": "Ginger",
+      "OwnIt": true,
+      "DOB": "2021-07-23"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Badger",
+      "Height": 15,
+      "Unit": "cm",
+      "Colour": "Black White",
+      "OwnIt": true,
+      "DOB": "2022-10-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Rex",
+      "Height": 1,
+      "Unit": "foot",
+      "Colour": "Brown White",
+      "OwnIt": true,
+      "DOB": "2020-06-01"
+    },
+    {
+      "Typ": "Bird",
+      "Name": "Anastasia",
+      "Height": 0.11,
+      "Unit": "m",
+      "Colour": "White",
+      "OwnIt": true,
+      "DOB": "1996-11-01"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Trixie",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "White Black Ginger",
+      "OwnIt": true,
+      "DOB": "2015-10-28"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Bosco",
+      "Height": 25,
+      "Unit": "cm",
+      "Colour": "Black with brown lips and white marking on chest",
+      "OwnIt": false,
+      "DOB": "2019-04-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Coco",
+      "Height": 40,
+      "Unit": "cm",
+      "Colour": "Brown",
+      "OwnIt": true,
+      "DOB": "2012-07-19"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Shadow",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "Black",
+      "OwnIt": true,
+      "DOB": "2008-07-04"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Coco",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "Black + White",
+      "OwnIt": false,
+      "DOB": "2018-03-12"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Philip",
+      "Height": 1,
+      "Unit": "ft",
+      "Colour": "Black+White",
+      "OwnIt": true,
+      "DOB": "2020-03-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Sporty",
+      "Height": 37,
+      "Unit": "cm",
+      "Colour": "Black",
+      "OwnIt": false,
+      "DOB": "2021-02-02"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Rambo",
+      "Height": 110,
+      "Unit": "cm",
+      "Colour": "Brown",
+      "OwnIt": true,
+      "DOB": "2007/06/27"
+    },
+    {
+      "Typ": "Goldfish",
+      "Name": "Pumpkin",
+      "Height": 12,
+      "Unit": "cm",
+      "Colour": "Orange",
+      "OwnIt": false,
+      "DOB": "2023-11-07"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Marshmello",
+      "Height": 20,
+      "Unit": "cm",
+      "Colour": "Ginger",
+      "OwnIt": true,
+      "DOB": "2019-12-02"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Bronco",
+      "Height": 90,
+      "Unit": "cm",
+      "Colour": "Brown",
+      "OwnIt": false,
+      "DOB": "2021-06-01"
+    },
+    {
+      "Typ": "Fish",
+      "Name": "Shark",
+      "Height": 11,
+      "Unit": "cm",
+      "Colour": "Brown/Gold",
+      "OwnIt": true,
+      "DOB": ""
+    },
+    {
+      "Typ": "Frog",
+      "Name": "Shrek",
+      "Height": 3,
+      "Unit": "cm",
+      "Colour": "Green Brown",
+      "OwnIt": true,
+      "DOB": "2017-05-15"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Coco",
+      "Height": 6,
+      "Unit": "in",
+      "Colour": "Fawn",
+      "OwnIt": true,
+      "DOB": "2015-01-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Bella",
+      "Height": 12,
+      "Unit": "in",
+      "Colour": "Golden Brown",
+      "OwnIt": true,
+      "DOB": "2022-01-01"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Sussy",
+      "Height": 30,
+      "Unit": "cm",
+      "Colour": "White",
+      "OwnIt": true,
+      "DOB": "2018-05-03"
+    },
+    {
+      "Typ": "Dog",
+      "Name": "Misty",
+      "Height": 31,
+      "Unit": "cm",
+      "Colour": "Brown with white chest",
+      "OwnIt": true,
+      "DOB": "2018-04-01"
+    },
+    {
+      "Typ": "Fish",
+      "Name": "Beta",
+      "Height": 5,
+      "Unit": "cm",
+      "Colour": "Black/Blue",
+      "OwnIt": true,
+      "DOB": "2023-07-28"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Liz Cottie",
+      "Height": 45,
+      "Unit": "cm",
+      "Colour": "Black/White",
+      "OwnIt": true,
+      "DOB": "Aug 2020"
+    },
+    {
+      "Typ": "Terry",
+      "Name": "Bonzo",
+      "Height": 1,
+      "Unit": "metre",
+      "Colour": "Beige",
+      "OwnIt": false,
+      "DOB": "n/a"
+    },
+    {
+      "Typ": "Cat",
+      "Name": "Luna",
+      "Height": 23,
+      "Unit": "cm",
+      "Colour": "Tabby",
+      "OwnIt": true,
+      "DOB": "2011-12-13"
+    },
+    {
+      "Typ": "Greyhound",
+      "Name": "Bobby",
+      "Height": 2,
+      "Unit": "ft",
+      "Colour": "Black",
+      "OwnIt": false,
+      "DOB": "2023-Dec"
+    },
+    {
+      "Typ": "Jack Russell",
+      "Name": "Cody",
+      "Height": 1,
+      "Unit": "foot",
+      "Colour": "Tan/White",
+      "OwnIt": true,
+      "DOB": "2022-12-12"
+    },
+    {
+      "Typ": "Jack Russell",
+      "Name": "Ugy",
+      "Height": 1,
+      "Unit": "foot",
+      "Colour": "Tan/White",
+      "OwnIt": true,
+      "DOB": "2010-12-12"
+    }
+  ]
 }
