@@ -287,3 +287,45 @@ Pets:
   Colour: Black/Blue
   OwnIt: true
   DOB: '2023-07-28'
+- Typ: Cat
+  Name: Liz Cottie
+  Height: 45
+  Unit: cm
+  Colour: Black/White
+  OwnIt: true
+  DOB: 'Aug 2020'
+- Typ: Terry
+  Name: Bonzo
+  Height: 1
+  Unit: metre
+  Colour: Beige
+  OwnIt: false
+  DOB: 'n/a'
+- Typ: Cat
+  Name: Luna
+  Height: 23
+  Unit: cm
+  Colour: Tabby
+  OwnIt: true
+  DOB: '2011-12-13'
+- Typ: Greyhound
+  Name: Bobby
+  Height: 2
+  Unit: ft
+  Colour: Black
+  OwnIt: false
+  DOB: '2023-Dec'
+- Typ: Jack Russell
+  Name: Cody
+  Height: 1
+  Unit: foot
+  Colour: Tan/White
+  OwnIt: true
+  DOB: '2022-12-12'
+- Typ: Jack Russell
+  Name: Ugy
+  Height: 1
+  Unit: foot
+  Colour: Tan/White
+  OwnIt: true
+  DOB: '2010-12-12'
