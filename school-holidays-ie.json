@@ -117,7 +117,9 @@
                 [
                     "31/12/2024",
                     "Christmas Holidays"
-                ],
+                ]
+            ],
+            "2025": [
                 [
                     "02/01/2025",
                     "Christmas Holidays"
@@ -145,6 +147,152 @@
                 [
                     "21/02/2025",
                     "February Mid-Term Break"
+                ],
+                [
+                    "14/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "15/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "16/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "17/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "18/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "22/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "23/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "24/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "25/04/2025",
+                    "Easter Holidays"
+                ],
+                [
+                    "27/10/2025",
+                    "October Mid-Term Break"
+                ],
+                [
+                    "28/10/2025",
+                    "October Mid-Term Break"
+                ],
+                [
+                    "29/10/2025",
+                    "October Mid-Term Break"
+                ],
+                [
+                    "30/10/2025",
+                    "October Mid-Term Break"
+                ],
+                [
+                    "31/10/2025",
+                    "October Mid-Term Break"
+                ],
+                [
+                    "22/12/2025",
+                    "Christmas Holidays"
+                ],
+                [
+                    "23/12/2025",
+                    "Christmas Holidays"
+                ],
+                [
+                    "24/12/2025",
+                    "Christmas Holidays"
+                ],
+                [
+                    "27/12/2025",
+                    "Christmas Holidays"
+                ],
+                [
+                    "30/12/2025",
+                    "Christmas Holidays"
+                ],
+                [
+                    "31/12/2025",
+                    "Christmas Holidays"
+                ]
+            ],
+            "2026": [
+                [
+                    "01/01/2026",
+                    "Christmas Holidays"
+                ],
+                [
+                    "02/01/2026",
+                    "Christmas Holidays"
+                ],
+                [
+                    "16/02/2026",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "17/02/2026",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "18/02/2026",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "19/02/2026",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "20/02/2026",
+                    "February Mid-Term Break"
+                ],
+                [
+                    "30/03/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "31/03/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "01/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "02/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "03/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "07/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "08/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "09/04/2026",
+                    "Easter Holidays"
+                ],
+                [
+                    "10/04/2026",
+                    "Easter Holidays"
                 ]
             ]
         }
