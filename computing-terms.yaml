@@ -1,8 +1,8 @@
 ---
 ct:
   title: Computing Terms
-  rev: '0.5'
-  updated: '14/03/2023 14:12'
+  rev: '0.6'
+  updated: '15/01/2025 21:28'
   format: English
   modules:
   - code: 5N0548
@@ -27,10 +27,48 @@ ct:
     title: Systems Software
   - code: 6N2093
     title: Physical and Logical Networking
+  - code: 5N18396
+    title: Maths for Information Technology
   data:
+  - term: Motherboard
+    desc: A computer systems' main printed circuit board holding the CPU and its input and output controllers. It may also hold, or provide connectivity to, other system chips and peripherals.
+    code:
+    - 5N0548
+  - term: MLB
+    desc: abbr. for Main Logic Board, see Motherboard
+    code: abbr
+  - term: Main Logic Board
+    desc: => Motherboard
+    code: aka    
+  - term: Hypervisor
+    desc: Software that allows multiple virtual machines to run on one physical computing system.
+    code:
+    - 5N2927
+    - 6N1411
+  - term: Hypervisor 1
+    desc: Hypervisor software that is installed as the host operating system, interacting directly with the systems hardware.
+    code:
+    - 5N2927
+    - 6N1411
+  - term: Bare-Metal Hypervisor
+    desc: => Hypervisor 1
+    code: aka
+  - term: Native Hypervisor
+    desc: => Hypervisor 1
+    code: aka
+  - term: Hypervisor 2
+    desc: Hypervisor software that is installed on top of an host operating system, interacting with the system hardware via the host operating system.
+    code:
+    - 5N2927
+    - 6N1411
+  - term: Embedded Hypervisor
+    desc: => Hypervisor 2
+    code: aka  
+  - term: Hosted Hypervisor
+    desc: => Hypervisor 2
+    code: aka  
   - term: Floppy Disk
-    desc: A flexible removable magnetic disk (typically encased in a hard plastic
-      shell) for storing data.
+    desc: A flexible removable magnetic disk (typically encased in a hard plastic shell) for storing data.
     code:
     - 5N0548
     - 5N2434
@@ -40,7 +78,7 @@ ct:
     - 6N1294
     - 6N1411
   - term: Python
-    desc: One type of coding language, known for its simplicity, versatility and massive library support.
+    desc: One type of coding language. A scripting language known for its simplicity, versatility and massive library support.
     code:
     - 5N2927
   - term: DHCP
