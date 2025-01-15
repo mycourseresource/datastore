@@ -37,7 +37,7 @@ ct:
   - term: MLB
     desc: abbr. for Main Logic Board, see Motherboard
     code: abbr
-  - term: Main Logic Board
+  - term: Main Logic Board (MLB)
     desc: => Motherboard
     code: aka    
   - term: Hypervisor
