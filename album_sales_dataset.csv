@@ -1,0 +1,91 @@
+AlbumID,AlbumTitle,Store,Format,Price,SaleDate,Quantity
+A001,Echoes of Tomorrow,Store A,CD,12.99,2025-01-15,34
+A001,Echoes of Tomorrow,Store A,Vinyl,19.99,2025-02-03,12
+A001,Echoes of Tomorrow,Store B,Stream,9.99,2025-01-20,102
+A001,Echoes of Tomorrow,Store C,CD,12.99,2025-01-28,22
+A001,Echoes of Tomorrow,Store D,Vinyl,19.99,2025-03-10,8
+A002,Midnight Horizons,Store A,Stream,9.49,2025-02-11,87
+A002,Midnight Horizons,Store B,CD,11.49,2025-02-18,29
+A002,Midnight Horizons,Store C,Vinyl,18.49,2025-03-05,15
+A002,Midnight Horizons,Store D,Stream,9.49,2025-02-25,93
+A003,Lunar Reflections,Store A,CD,13.99,2025-01-05,41
+A003,Lunar Reflections,Store B,Vinyl,20.49,2025-02-02,11
+A003,Lunar Reflections,Store C,Stream,10.99,2025-01-15,110
+A003,Lunar Reflections,Store D,CD,13.99,2025-01-22,27
+A003,Lunar Reflections,Store A,Vinyl,20.49,2025-03-01,9
+A004,Solar Echo,Store A,Stream,8.99,2025-02-14,120
+A004,Solar Echo,Store B,CD,14.99,2025-02-20,33
+A004,Solar Echo,Store C,Vinyl,21.99,2025-03-07,14
+A004,Solar Echo,Store D,Stream,8.99,2025-02-28,105
+A005,Wild Waves,Store A,CD,15.49,2025-01-18,38
+A005,Wild Waves,Store B,Vinyl,22.49,2025-03-12,10
+A005,Wild Waves,Store C,Stream,9.99,2025-02-05,95
+A005,Wild Waves,Store D,CD,15.49,2025-01-30,25
+A005,Wild Waves,Store A,Vinyl,22.49,2025-03-15,8
+x,Forgotten Trails,Store A,Stream,9.25,2025-02-08,88
+A006,Forgotten Trails,Store B,CD,12.75,2025-02-20,30
+A006,0996,Store C,Vinyl,19.75,2025-03-03,13
+A006,Forgotten Trails,Store D,Stream,9.25,2025-02-22,99
+A007,Neon Skies,Store A,CD,14.99,2025-01-10,36
+A007,Neon Skies,Store B,Vinyl,23.99,2025-02-27,9
+A007,Neon Skies,Store C,Stream,10.49,2025-01-23,101
+A007,Neon Skies,Store D,CD,14.99,2025-01-31,28
+A007,Neon Skies,Store A,Vinyl,23.99,  2025-03-08,7
+A008,Echo of Silence,Store A,Stream,8.49,2025-02-02,130
+A008,Echo of Silence,Store B,CD,13.49,2025-02-14,34
+A008,Echo of Silence,Store C,Vinyl,18.49,2025-03-02,12
+A008,Echo of Silence,Store D,Stream,8.49,2025-02-28,110
+A009,Skyline Dreams,Store A,CD,16.99,2025-01-22,33
+A009,Skyline Dreams,Store B,Vinyl,24.49,2025-02-18,8
+A009,Skyline Dreams,Store C,Stream,11.99,2025-01-29,95
+A009,Skyline Dreams,Store D,CD,16.99,2025-02-05,29
+A009,Skyline Dreams,Store A,Vinyl,24.49,2025-03-09,6
+A010,Endless Journey,Store A,Stream,9.79,2025-02-04,94
+A010,Endless Journey,Store B,CD,14.79,  2025-02-16,31
+A010,Endless Journey,Store C,Vinyl,20.79,2025-03-06,11
+A010,Endless Journey,Store D,Stream,9.79,2025-02-25,102
+A011,Midnight Sunrise,Store A,CD,13.49,2025-01-12,40
+A011,,Store B,Vinyl,21.49,2025-02-22,9
+A011,,Store C,Stream,10.49,2025-01-26,108
+A011,,Store D,CD,13.49,2025-01-30,26
+A011,Midnight Sunrise,Store A,Vinyl,21.49,2025-03-11,7
+A012,Oceanic Whispers,Store A,Stream,8.99,2025-02-09,115
+A012,Oceanic Whispers,Store B,CD,12.99,2025-02-20,32
+A012,Oceanic Whispers,Store C,Vinyl,18.99,2025-03-04,14
+A012,Oceanic Whispers,Store D,Stream,8.99,2025-02-27,100
+A013,Urban Legends,Store A,CD,15.99,2025-01-08,35
+A013,Urban Legends,Store B,Vinyl,23.99,2025-02-25,8
+A013,Urban Legends,Store C,Stream,11.99,2025-01-19,92
+A013,Urban Legends,Store D,CD,15.99,2025-01-25,27
+A013,Urban Legends,Store A,Vinyl,23.99,2025-03-12,6
+A014,Crimson Tides,Store A,Stream,95900,2025-02-13,89
+A014,Crimson Tides,Store B,CD,14.59,2025-02-21,30
+A014,Crimson Tides,Store C,Vinyl,20.59,2025-03-08,12
+A014,Crimson Tides,Store D,Stream,9.59,2025-02-29,96
+A015,Phantom Melodies,Store A,CD,13.89,2025-01-14,43
+A015,Phantom Melodies,Store B,Vinyl,21.89,2025-03-01,10
+A015,Phantom Melodies,Store C,Stream,10.89,2025-01-27,105
+A015,Phantom Melodies,Store D,CD,13.89,2025-02-02,24
+A015,Phantom Melodies,Store A,Vinyl,21.89,2025-03-14,7
+A016,Golden Horizons,Store A,Stream,9.35,2025-02-03,97
+A016,Golden Horizons,Store B,CD,14.35,2025-02-17,32
+A016,Golden Horizons,Store C,Vinyl,19.35,2025-03-01,13
+A016,Golden Horizons,Store D,Stream,9.35,2025-02-26,99
+A017,Silent Echoes,Store A,CD,12.59,2025-01-13,37
+A017,Silent Echoes,Store B,Vinyl,20.59,2025-02-19,9
+A017,Silent Echoes,Store C,Stream,9.59,2025/01/21,108
+A017,Silent Echoes,Store D,CD,12.59,2025-01-29,22
+A017,Silent Echoes,Store A,Vinyl,20.59,2025-03-09,6
+A018,Radiant Skies,Store A,Stream,8.75,2025-02-07,112
+A018,Radiant Skies,Store B,CD,13.75,2025-02-20,31
+A018,Radiant Skies,Store C,Vinyl,18.75,2025-03-05,14
+A018,Radiant Skies,Store D,Stream,8.75,2025-02-28,101
+A019,Midnight Riders,Store A,CD,14.29,2025-01-11,39
+A019,Midnight Riders,Store B,Vinyl,22.29,2025-02-23,8
+A019,Midnight Riders,Store C,Stream,10.29,2025-01-24,96
+A019,Midnight Riders,Store D,CD,14.29,2025/01/31,26
+A019,Midnight Riders,Store A,Vinyl,22.29,2025-03-10,5
+A020,Horizon Bound,Store A,Stream,9.15,2025-02-05,95
+A020,Horizon Bound,Store B,CD,14.15,2025-02-18,29
+A020,Horizon Bound,Store C,Vinyl,19.15,2025-03-06,12
+A020,Horizon Bound,Store D,Stream,9.15,2025-02-27,100
