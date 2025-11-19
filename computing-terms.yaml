@@ -29,6 +29,8 @@ ct:
     title: Physical and Logical Networking
   - code: 5N18396
     title: Maths for Information Technology
+  - code: 5N2066
+    title: Statistics
   data:
   - term: Motherboard
     desc: A computer systems' main printed circuit board holding the CPU and its input and output controllers. It may also hold, or provide connectivity to, other system chips and peripherals.
@@ -201,3 +203,30 @@ ct:
     - 5N2927  
     - 5N2929
     - 6N0735
+    - term: Dataset
+      desc: A structured collection of data. It typically contains multiple rows (observations) and multiple columns(values or attributes). In Coding, an example of a dataset could be a CSV file containing customer names, ages, and purchases. In Mathematics, an example of a dataset could be a finite set of numbers. In Statistics, an example of a dataset could be a table where each row is a person and each column is a characteristic (e.g., height, age, income).
+      see:
+        - Structured Dataset
+        - Unstructured Dataset
+      code:
+        - 5N18396
+        - 5N2927
+        - 5N2066
+    - term: Structured Dataset
+      desc: A structured dataset is data arranged in a clear, predictable format, commonly a tabular structure with columns and rows. In Coding, an example of a structured dataset could be data stored in a rigid format such as a table, relational database, spreadsheet, CSV, or a dataframe. In Mathematics, an example of a structured dataset could be a set of data points that follow a consistent arrangement, allowing them to be treated as matrix-like objects. In Statistics, an example of a structured dataset could be a table where each row is a patient and columns include blood pressure, age, and treatment group.
+      see:
+        - Dataset
+        - Unstructured Dataset
+      code:
+        - 5N18396
+        - 5N2927
+        - 5N2066
+    - term: Unstructured Dataset
+      desc: An unstructured dataset is a collection of data that doesn’t follow a fixed row-and-column format. The information may be text, images, audio, video, or logs. It often requires preprocessing, parsing, or feature extraction to make it usable in analysis or computation. In Coding, examples of a unstructured datasets would be text documents, emails, social media posts, images, audio/video files, or JSON files without a strict schema. In Mathematics, examples of a unstructured datasets would be a set of elements without a clear, uniform arrangement requiring transformation before mathematical operations can be applied. In Statistics, examples of unstructured datasets would be data that cannot be directly used in standard statistical tables or models, e.g. written customer reviews that require sentiment scores.
+      see:
+        - Dataset
+        - Structured Dataset
+      code:
+        - 5N18396
+        - 5N2927
+        - 5N2066
