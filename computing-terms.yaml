@@ -37,10 +37,12 @@ ct:
     code:
     - 5N0548
   - term: MLB
-    desc: abbr. for Main Logic Board, see Motherboard
+    desc: Main Logic Board
+    see: Motherboard
     code: abbr
   - term: Main Logic Board (MLB)
-    desc: => Motherboard
+    desc: 
+    see: Motherboard
     code: aka    
   - term: Hypervisor
     desc: Software that allows multiple virtual machines to run on one physical computing system.
@@ -53,10 +55,12 @@ ct:
     - 5N2927
     - 6N1411
   - term: Bare-Metal Hypervisor
-    desc: => Hypervisor 1
+    desc:
+    see: Hypervisor 1
     code: aka
   - term: Native Hypervisor
-    desc: => Hypervisor 1
+    desc: 
+    see: Hypervisor 1
     code: aka
   - term: Hypervisor 2
     desc: Hypervisor software that is installed on top of an host operating system, interacting with the system hardware via the host operating system.
@@ -64,10 +68,12 @@ ct:
     - 5N2927
     - 6N1411
   - term: Embedded Hypervisor
-    desc: => Hypervisor 2
+    desc:
+    see: Hypervisor 2
     code: aka  
   - term: Hosted Hypervisor
-    desc: => Hypervisor 2
+    desc:
+    see: Hypervisor 2
     code: aka  
   - term: Floppy Disk
     desc: A flexible removable magnetic disk (typically encased in a hard plastic shell) for storing data.
@@ -113,7 +119,7 @@ ct:
     - 6N1411
     - 6N1294
   - term: FTP
-    desc: abbr. for File Transfer Protocol
+    desc: File Transfer Protocol
     code: abbr
   - term: File Transfer Protocol (FTP)
     desc: Protocol that allows a client to download and upload a file over the internet from a server.
@@ -126,7 +132,7 @@ ct:
     - 5N2928
     - 5N2434
   - term: DNS
-    desc: abbr. for Domain Name System
+    desc: Domain Name System
     code: abbr
   - term: Domain Name System (DNS)
     desc: Translates domain names into a IP address allowing clients to access websites or other network devices with a domain name.
@@ -141,7 +147,7 @@ ct:
     - 5N2929
     - 5N2434   
   - term: SSH
-    desc: abbr. for Secure Shell
+    desc: Secure Shell
     code: abbr
   - term: Secure Shell (SSH)
     desc: A network communication protocol allowing two computers to communicate and share data.
@@ -157,7 +163,7 @@ ct:
     - 5N2929
     - 5N2434   
   - term: IPS
-    desc: abbr. for Intrusion Prevention System
+    desc: Intrusion Prevention System
     code: abbr
   - term: Intrusion Prevention System (IPS))
     desc: A network tool that continuously monitors a network for malicious activity and takes action to prevent it.
@@ -169,14 +175,14 @@ ct:
     - 6N1294
     - 6N1411
   - term: API  
-    desc: abbr. for Application Programming Interface  
+    desc: Application Programming Interface  
     code: abbr  
   - term: Application Programming Interface (API)  
     desc: A type of software interface that allows two or more computer applications to communicate with each other.
     code:
     - 5N2927  
   - term: Wi-Fi  
-    desc: abbr. for Wireless Fidelity  
+    desc: Wireless Fidelity  
     code: abbr  
   - term: Wireless Fidelity (Wi-Fi)  
     desc: Wireless network protocols commonly used for local area networking of computers and other Wi-Fi enabled electronic equipment.  
