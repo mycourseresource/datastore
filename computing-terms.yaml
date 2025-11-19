@@ -213,7 +213,7 @@ ct:
         - 5N2927
         - 5N2066
     - term: Structured Dataset
-      desc: A structured dataset is data arranged in a clear, predictable format, commonly a tabular structure with columns and rows. In Coding, an example of a structured dataset could be data stored in a rigid format such as a table, relational database, spreadsheet, CSV, or a dataframe. In Mathematics, an example of a structured dataset could be a set of data points that follow a consistent arrangement, allowing them to be treated as matrix-like objects. In Statistics, an example of a structured dataset could be a table where each row is a patient and columns include blood pressure, age, and treatment group.
+      desc: A structured dataset is data arranged in a clear, predictable format, commonly a tabular structure with columns and rows. In Coding, an example of a structured dataset could be tabular data stored in a rigid format such as a table, relational database, spreadsheet, CSV, or a dataframe. In Mathematics, an example of a structured dataset could be a set of data points that follow a consistent arrangement, allowing them to be treated as matrix-like objects. In Statistics, an example of a structured dataset could be a table where each row is a patient and columns include blood pressure, age, and treatment group.
       see:
         - Dataset
         - Unstructured Dataset
@@ -222,7 +222,7 @@ ct:
         - 5N2927
         - 5N2066
     - term: Unstructured Dataset
-      desc: An unstructured dataset is a collection of data that doesn’t follow a fixed row-and-column format. The information may be text, images, audio, video, or logs. It often requires preprocessing, parsing, or feature extraction to make it usable in analysis or computation. In Coding, examples of a unstructured datasets would be text documents, emails, social media posts, images, audio/video files, or JSON files without a strict schema. In Mathematics, examples of a unstructured datasets would be a set of elements without a clear, uniform arrangement requiring transformation before mathematical operations can be applied. In Statistics, examples of unstructured datasets would be data that cannot be directly used in standard statistical tables or models, e.g. written customer reviews that require sentiment scores.
+      desc: An unstructured dataset is a collection of data that doesn’t follow a fixed row-and-column format. The information may be text, images, audio, video, or logs. It often requires preprocessing, parsing, or feature extraction to make it usable in analysis or computation. In Coding, examples of a unstructured datasets would be text documents, emails, social media posts, images, audio/video files, or JSON files without a strict schema. In Mathematics, examples of a unstructured datasets would be a set of elements without a clear, uniform arrangement requiring transformation before mathematical operations can be applied. In Statistics, examples of unstructured datasets would be data that cannot be directly used in standard statistical tables or models, e.g. images, audio, video, or text such as written customer reviews that require sentiment scores.
       see:
         - Dataset
         - Structured Dataset
