@@ -90,13 +90,13 @@ ct:
     code:
     - 5N2927
   - term: DHCP
-    desc: abbr. for Dynamic Host Configurations Protocol
+    desc: Dynamic Host Configurations Protocol
     code: abbr
   - term: MFP
-    desc: abbr. for Multifunctional Printer
+    desc: Multifunctional Printer
     code: abbr
   - term: MFD
-    desc: abbr. for Multifunction Device
+    desc: Multifunction Device
     code: abbr
   - term: Multifunctional Printer (MFP)
     desc: A computer printer supporting a variety of functions otherwise handled by separate equipment, such as copiers, printers, scanners, and facsimiles. See also MFP, a device usually larger in size and with more features and options when compared to a MFP.
