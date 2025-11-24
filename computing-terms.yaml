@@ -49,6 +49,22 @@ ct:
         to, other system chips and peripherals.
       code:
         - 5N0548
+    - term: AI
+      desc: Artificial Intelligence
+      see: Artificial Intelligence (AI)
+      code: abbr
+    - term: Artificial Intelligence (AI)
+      desc: The field of computer science focusing on creating systems that can perform tasks normally requiring human intelligence such as understanding language, recognizing patterns, making decisions, and solving problems.
+        It uses data and algorithms to learn from experience, adapt to new information, and improve performance over time.
+    - term: Gen AI
+      desc: Generative AI
+      see: Generative AI (Gen AI)
+      code: abbr
+    - term: Generative AI (Gen AI)
+      desc: A branch of artificial intelligence focusing on creating new, original content by learning patterns from existing data. 
+        Unlike traditional AI, which primarily analyzes or classifies information, generative AI can produce novel outputs such as text, images, music, code, and even video.
+        It works by training on large datasets to understand the structure and relationships within the data, then uses that understanding to generate content that is coherent and often creative.
+        Applications of generative AI ranges from chatbots and virtual assistants to image synthesis, content creation, drug discovery, and design.
     - term: MLOps
       desc: Machine Learning Operations
       see: Machine Learning Operations (MLOps)
