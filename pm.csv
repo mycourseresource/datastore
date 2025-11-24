@@ -1,0 +1,101 @@
+Project,Task ID,Task Name,Owner,Start Date,End Date,Status,Hours,Cost
+Apollo,1,Requirements Gathering,Alice,02/01/2025,05/01/2025,Completed,12,1800
+Apollo,2,Stakeholder Interviews,Bob,03/01/2025,06/01/2025,Completed,15,2250
+Apollo,3,Define Scope,Carol,07/01/2025,10/01/2025,Completed,10,1500
+Apollo,4,Design Draft,Alice,11/01/2025,15/01/2025,In Progress,20,3000
+Apollo,5,UX Review,David,12/01/2025,16/01/2025,In Progress,18,2700
+Apollo,6,Technical Architecture,Carol,16/01/2025,20/01/2025,Not Started,22,3300
+Apollo,7,API Planning,Bob,18/01/2025,22/01/2025,Not Started,16,2400
+Apollo,8,Security Assessment,Alice,20/01/2025,25/01/2025,In Progress,25,3750
+Apollo,9,Backend Development,David,22/01/2025,02/02/2025,Not Started,40,6000
+Apollo,10,Frontend Development,Carol,25/01/2025,05/02/2025,Not Started,38,5700
+Zephyr,11,Project Kickoff,Alice,01/02/2025,02/02/2025,Completed,6,900
+Zephyr,12,Requirements Workshop,Bob,03/02/2025,05/02/2025,Completed,14,2100
+Zephyr,13,Data Modeling,Carol,06/02/2025,09/02/2025,In Progress,19,2850
+Zephyr,14,UI Style Guide,David,07/02/2025,10/02/2025,In Progress,15,2250
+Zephyr,15,Infrastructure Setup,Alice,10/02/2025,14/02/2025,Not Started,28,4200
+Zephyr,16,Integration Planning,Bob,12/02/2025,17/02/2025,Not Started,22,3300
+Zephyr,17,ETL Development,Carol,15/02/2025,28/02/2025,Not Started,45,6750
+Zephyr,18,API Integration,David,18/02/2025,01/03/2025,Not Started,42,6300
+Zephyr,19,System Testing,Alice,25/02/2025,05/03/2025,Not Started,30,4500
+Zephyr,20,UAT Preparation,Bob,27/02/2025,06/03/2025,Not Started,20,3000
+Orion,21,Initial Analysis,Carol,01/03/2025,03/03/2025,Completed,10,1500
+Orion,22,Workflow Mapping,David,02/03/2025,05/03/2025,Completed,14,2100
+Orion,23,Prototype Design,Alice,04/03/2025,08/03/2025,In Progress,22,3300
+Orion,24,Backend Mockup,Bob,06/03/2025,10/03/2025,In Progress,18,2700
+Orion,25,DevOps Setup,Carol,07/03/2025,12/03/2025,Not Started,26,3900
+Orion,26,Logging & Monitoring,David,08/03/2025,15/03/2025,Not Started,30,4500
+Orion,27,API Contracts,Alice,10/03/2025,14/03/2025,Not Started,16,2400
+Orion,28,Database Setup,Bob,12/03/2025,17/03/2025,Not Started,25,3750
+Orion,29,Security Config,Carol,15/03/2025,20/03/2025,Not Started,20,3000
+Orion,30,Release Planning,David,18/03/2025,22/03/2025,Not Started,18,2700
+Titan,31,Client Briefing,Alice,01/04/2025,02/04/2025,Completed,5,750
+Titan,32,High-Level Scope,Bob,02/04/2025,04/04/2025,Completed,8,1200
+Titan,33,Resource Planning,Carol,03/04/2025,06/04/2025,Completed,12,1800
+Titan,34,Sprint Planning,David,05/04/2025,07/04/2025,Completed,14,2100
+Titan,35,Component Design,Alice,07/04/2025,12/04/2025,In Progress,20,3000
+Titan,36,API Strategy,Bob,10/04/2025,15/04/2025,In Progress,22,3300
+Titan,37,Code Review Setup,Carol,12/04/2025,17/04/2025,Not Started,18,2700
+Titan,38,Version Control Setup,David,14/04/2025,18/04/2025,Not Started,10,1500
+Titan,39,QA Planning,Alice,15/04/2025,20/04/2025,Not Started,16,2400
+Titan,40,Risk Assessment,Bob,16/04/2025,21/04/2025,Not Started,14,2100
+Vega,41,User Research,Carol,01/05/2025,04/05/2025,Completed,12,1800
+Vega,42,Persona Creation,David,02/05/2025,05/05/2025,Completed,10,1500
+Vega,43,Journey Mapping,Alice,03/05/2025,06/05/2025,Completed,14,2100
+Vega,44,Feature Prioritization,Bob,05/05/2025,08/05/2025,In Progress,18,2700
+Vega,45,Wireframe Design,Carol,07/05/2025,12/05/2025,In Progress,20,3000
+Vega,46,Storyboard Review,David,09/05/2025,13/05/2025,In Progress,12,1800
+Vega,47,Tech Review,Alice,10/05/2025,15/05/2025,Not Started,16,2400
+Vega,48,Performance Planning,Bob,12/05/2025,17/05/2025,Not Started,22,3300
+Vega,49,Backend Draft,Carol,14/05/2025,20/05/2025,Not Started,28,4200
+Vega,50,Frontend Draft,David,16/05/2025,22/05/2025,Not Started,30,4500
+Nimbus,51,Contract Approval,Alice,01/06/2025,02/06/2025,Completed,4,600
+Nimbus,52,Team Assignment,Bob,02/06/2025,04/06/2025,Completed,6,900
+Nimbus,53,Sprint 1 Planning,Carol,03/06/2025,06/06/2025,Completed,12,1800
+Nimbus,54,Dev Setup,David,04/06/2025,07/06/2025,Completed,14,2100
+Nimbus,55,Module A Development,Alice,05/06/2025,10/06/2025,In Progress,24,3600
+Nimbus,56,Module B Development,Bob,07/06/2025,12/06/2025,In Progress,26,3900
+Nimbus,57,Module C Development,Carol,08/06/2025,14/06/2025,In Progress,30,4500
+Nimbus,58,Data Pipeline,David,09/06/2025,16/06/2025,Not Started,35,5250
+Nimbus,59,Testing Framework,Alice,12/06/2025,18/06/2025,Not Started,22,3300
+Nimbus,60,Deployment Prep,Bob,14/06/2025,20/06/2025,Not Started,20,3000
+Helios,61,Discovery Workshop,Carol,01/07/2025,03/07/2025,Completed,10,1500
+Helios,62,UX Interviews,David,02/07/2025,05/07/2025,Completed,12,1800
+Helios,63,Requirements Matrix,Alice,03/07/2025,06/07/2025,Completed,15,2250
+Helios,64,Technical Analysis,Bob,05/07/2025,09/07/2025,In Progress,22,3300
+Helios,65,Sprint Planning 1,Carol,06/07/2025,10/07/2025,In Progress,18,2700
+Helios,66,Sprint Planning 2,David,07/07/2025,11/07/2025,In Progress,16,2400
+Helios,67,Prototype Build,Alice,09/07/2025,15/07/2025,Not Started,28,4200
+Helios,68,Data Audit,Bob,10/07/2025,16/07/2025,Not Started,20,3000
+Helios,69,Cloud Setup,Carol,12/07/2025,18/07/2025,Not Started,26,3900
+Helios,70,Release Strategy,David,14/07/2025,20/07/2025,Not Started,18,2700
+Nova,71,Customer Interviews,Alice,01/08/2025,04/08/2025,Completed,12,1800
+Nova,72,Requirement Validation,Bob,03/08/2025,06/08/2025,Completed,14,2100
+Nova,73,Initial Design,Carol,04/08/2025,08/08/2025,Completed,18,2700
+Nova,74,Architecture Review,David,06/08/2025,10/08/2025,Completed,16,2400
+Nova,75,Sprint 1, Alice,07/08/2025,13/08/2025,In Progress,22,3300
+Nova,76,Sprint 2,Bob,10/08/2025,16/08/2025,In Progress,24,3600
+Nova,77,Sprint 3,Carol,12/08/2025,18/08/2025,In Progress,26,3900
+Nova,78,Sprint 4,David,14/08/2025,20/08/2025,Not Started,28,4200
+Nova,79,QA Cycle,Alice,15/08/2025,22/08/2025,Not Started,20,3000
+Nova,80,Launch Planning,Bob,17/08/2025,24/08/2025,Not Started,18,2700
+Atlas,81,Kickoff Meeting,Carol,01/09/2025,02/09/2025,Completed,4,600
+Atlas,82,Scope Definition,David,02/09/2025,04/09/2025,Completed,8,1200
+Atlas,83,Feature Mapping,Alice,03/09/2025,06/09/2025,Completed,12,1800
+Atlas,84,Dev Environment Setup,Bob,05/09/2025,07/09/2025,Completed,14,2100
+Atlas,85,Sprint 1,Carol,06/09/2025,12/09/2025,In Progress,20,3000
+Atlas,86,Sprint 2,David,07/09/2025,13/09/2025,In Progress,22,3300
+Atlas,87,Sprint 3,Alice,09/09/2025,15/09/2025,Not Started,24,3600
+Atlas,88,Test Setup,Bob,10/09/2025,16/09/2025,Not Started,18,2700
+Atlas,89,Documentation,Carol,12/09/2025,18/09/2025,Not Started,16,2400
+Atlas,90,Go-Live Prep,David,14/09/2025,20/09/2025,Not Started,20,3000
+Phoenix,91,Problem Definition,Alice,01/10/2025,03/10/2025,Completed,8,1200
+Phoenix,92,Requirements Study,Bob,02/10/2025,05/10/2025,Completed,12,1800
+Phoenix,93,Process Mapping,Carol,03/10/2025,06/10/2025,Completed,14,2100
+Phoenix,94,Technical Review,David,05/10/2025,09/10/2025,In Progress,18,2700
+Phoenix,95,Iteration 1,Alice,07/10/2025,13/10/2025,In Progress,20,3000
+Phoenix,96,Iteration 2,Bob,09/10/2025,15/10/2025,In Progress,22,3300
+Phoenix,97,Iteration 3,Carol,11/10/2025,17/10/2025,Not Started,24,3600
+Phoenix,98,Iteration 4,David,13/10/2025,19/10/2025,Not Started,26,3900
+Phoenix,99,Full QA,Alice,15/10/2025,21/10/2025,Not Started,18,2700
+Phoenix,100,Final Deployment,Bob,17/10/2025,23/10/2025,Not Started,16,2400
