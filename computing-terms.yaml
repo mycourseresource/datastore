@@ -1,24 +1,22 @@
 ---
 ct:
   title: Computing Terms
-  rev: "0.8"
+  rev: 0.8
   updated: 26/11/2025 13:29
   format: English
-  required:
-    - term
-    - code
-  optional:
+  required_keys:
+    - term: 
+      purpose: The actual term.
     - desc:
-      purpose: Description of Term
+      purpose: The description for the term. If applicable, include the the abbreviation or acronym in parentheses, e.g. "Wireless Fidelity (Wi-Fi)".
+      defined_format_options:
+        - abbr: "Identified term as abbreviation or acronym, e.g. \"abbr: File Transfer Protocol (FTP)\". The 'see' key for further lookup is optional."
+        - aka: "Identifies term as also known as, e.g. \"aka: Main Logic Board (MLB)\". Will require the 'see' key for further lookup."
+    - code:
+      purpose: Links term with a module.
+  optional_keys:
     - see:
       purpose: Listing of Related Term(s)
-  code_options:
-    - module_number:
-      purpose: Links term with a module.
-    - aka:
-      purpose: Identifies term as aka. Will require the 'see' key for further lookup.
-    - abbr:
-      purpose: Identifed term as abbreviation or acromyn. Will require the 'desc' key. The 'see' key for further lookup is optional.
   modules:
     - code: 5N0548
       title: Computer Systems Hardware
@@ -47,6 +45,16 @@ ct:
     - code: 5N2066
       title: Statistics
   data:
+    - term: Quantitative Data
+      desc: Data that is measurable and expressed in numbers. It represents quantities, amounts, or frequencies and can be analyzed statistically.
+      code:
+        - 5N18396
+        - 5N2066
+    - term: Qualitative Data
+      desc: Data that is descriptive and non-numerical. It represents qualities, characteristics, or attributes and is often analyzed for patterns or themes.
+      code:
+        - 5N18396
+        - 5N2066
     - term: Metadata
       desc: Metadata is "data about data", defining and describing the characteristics of other data. It gives context to a piece of information so it can be understood, organized, or used more effectively.
       code:
