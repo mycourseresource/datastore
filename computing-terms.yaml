@@ -1,9 +1,24 @@
 ---
 ct:
   title: Computing Terms
-  rev: "0.7"
-  updated: 09/04/2025 14:20
+  rev: "0.8"
+  updated: 26/11/2025 13:29
   format: English
+  required:
+    - term
+    - code
+  optional:
+    - desc:
+      purpose: Description of Term
+    - see:
+      purpose: Listing of Related Term(s)
+  code_options:
+    - module_number:
+      purpose: Links term with a module.
+    - aka:
+      purpose: Identifies term as aka. Will require the 'see' key for further lookup.
+    - abbr:
+      purpose: Identifed term as abbreviation or acromyn. Will require the 'desc' key. The 'see' key for further lookup is optional.
   modules:
     - code: 5N0548
       title: Computer Systems Hardware
@@ -32,21 +47,23 @@ ct:
     - code: 5N2066
       title: Statistics
   data:
+    - term: Metadata
+      desc: Metadata is "data about data", defining and describing the characteristics of other data. It gives context to a piece of information so it can be understood, organized, or used more effectively.
+      code:
+        - 5N18396
+        - 5N2927
+        - 5N2066  
+    - term: Metainformation
+      see: Metadata
+      code: aka
     - term: Natural Language Processing (NLP)
-      desc: Field of artificial intelligence (AI) that focuses on enabling computers
-        to understand, interpret, and generate human language. It combines
-        linguistics, computer science, and machine learning to perform tasks
-        such as text classifications & summarization, sentiment analysis,
-        translation, speech (speech-to-text & text-to-speech), and
-        conversational AI (chatbots).
+      desc: Field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language. It combines linguistics, computer science, and machine learning to perform tasks such as text classifications & summarization, sentiment analysis, translation, speech (speech-to-text & text-to-speech), and conversational AI (chatbots).
     - term: NLP
       desc: Natural Language Processing
       see: Natural Language Processing (NLP)
       code: abbr
     - term: Motherboard
-      desc: A computer systems' main printed circuit board holding the CPU and its
-        input and output controllers. It may also hold, or provide connectivity
-        to, other system chips and peripherals.
+      desc: A computer systems' main printed circuit board holding the CPU and its input and output controllers. It may also hold, or provide connectivity to, other system chips and peripherals.
       code:
         - 5N0548
     - term: AI
@@ -54,17 +71,25 @@ ct:
       see: Artificial Intelligence (AI)
       code: abbr
     - term: Artificial Intelligence (AI)
-      desc: The field of computer science focusing on creating systems that can perform tasks normally requiring human intelligence such as understanding language, recognizing patterns, making decisions, and solving problems.
-        It uses data and algorithms to learn from experience, adapt to new information, and improve performance over time.
+      desc: The field of computer science focusing on creating systems that can
+        perform tasks normally requiring human intelligence such as
+        understanding language, recognizing patterns, making decisions, and
+        solving problems. It uses data and algorithms to learn from experience,
+        adapt to new information, and improve performance over time.
     - term: Gen AI
       desc: Generative AI
       see: Generative AI (Gen AI)
       code: abbr
     - term: Generative AI (Gen AI)
-      desc: A branch of artificial intelligence focusing on creating new, original content by learning patterns from existing data. 
-        Unlike traditional AI, which primarily analyzes or classifies information, generative AI can produce novel outputs such as text, images, music, code, and even video.
-        It works by training on large datasets to understand the structure and relationships within the data, then uses that understanding to generate content that is coherent and often creative.
-        Applications of generative AI ranges from chatbots and virtual assistants to image synthesis, content creation, drug discovery, and design.
+      desc: A branch of artificial intelligence focusing on creating new, original
+        content by learning patterns from existing data. Unlike traditional AI,
+        which primarily analyzes or classifies information, generative AI can
+        produce novel outputs such as text, images, music, code, and even video.
+        It works by training on large datasets to understand the structure and
+        relationships within the data, then uses that understanding to generate
+        content that is coherent and often creative. Applications of generative
+        AI ranges from chatbots and virtual assistants to image synthesis,
+        content creation, drug discovery, and design.
     - term: MLOps
       desc: Machine Learning Operations
       see: Machine Learning Operations (MLOps)
@@ -81,7 +106,6 @@ ct:
         and context added at each level, showing how simple facts evolve into
         meaningful insights and informed decision-making.
     - term: DIKW Hierarchy
-      desc: null
       see: DIKW Pyramid
       code: aka
     - term: MLB
@@ -89,46 +113,37 @@ ct:
       see: Motherboard
       code: abbr
     - term: Main Logic Board (MLB)
-      desc: null
       see: Motherboard
       code: aka
     - term: Hypervisor
-      desc: Software that allows multiple virtual machines to run on one physical
-        computing system.
+      desc: Software that allows multiple virtual machines to run on one physical computing system.
       code:
         - 5N2927
         - 6N1411
     - term: Hypervisor 1
-      desc: Hypervisor software that is installed as the host operating system,
-        interacting directly with the systems hardware.
+      desc: Hypervisor software that is installed as the host operating system, interacting directly with the systems hardware.
       code:
         - 5N2927
         - 6N1411
     - term: Bare-Metal Hypervisor
-      desc: null
       see: Hypervisor 1
       code: aka
     - term: Native Hypervisor
-      desc: null
       see: Hypervisor 1
       code: aka
     - term: Hypervisor 2
-      desc: Hypervisor software that is installed on top of an host operating system,
-        interacting with the system hardware via the host operating system.
+      desc: Hypervisor software that is installed on top of an host operating system, interacting with the system hardware via the host operating system.
       code:
         - 5N2927
         - 6N1411
     - term: Embedded Hypervisor
-      desc: null
       see: Hypervisor 2
       code: aka
     - term: Hosted Hypervisor
-      desc: null
       see: Hypervisor 2
       code: aka
     - term: Floppy Disk
-      desc: A flexible removable magnetic disk (typically encased in a hard plastic
-        shell) for storing data.
+      desc: A flexible removable magnetic disk (typically encased in a hard plastic shell) for storing data.
       code:
         - 5N0548
         - 5N2434
@@ -138,8 +153,7 @@ ct:
         - 6N1294
         - 6N1411
     - term: Python
-      desc: One type of coding language. A scripting language known for its
-        simplicity, versatility and massive library support.
+      desc: One type of coding language. A scripting language known for its simplicity, versatility and massive library support.
       code:
         - 5N2927
     - term: DHCP
@@ -183,8 +197,7 @@ ct:
       see: File Transfer Protocol (FTP)
       code: abbr
     - term: File Transfer Protocol (FTP)
-      desc: Protocol that allows a client to download and upload a file over the
-        internet from a server.
+      desc: Protocol that allows a client to download and upload a file over the internet from a server.
       code:
         - 6N0733
         - 6N0720
@@ -317,19 +330,7 @@ ct:
             - 5N2927
             - 5N2066
         - term: Unstructured Dataset
-          desc: An unstructured dataset is a collection of data that doesn’t follow a
-            fixed row-and-column format. The information may be text, images,
-            audio, video, or logs. It often requires preprocessing, parsing, or
-            feature extraction to make it usable in analysis or computation. In
-            Coding, examples of a unstructured datasets would be text documents,
-            emails, social media posts, images, audio/video files, or JSON files
-            without a strict schema. In Mathematics, examples of a unstructured
-            datasets would be a set of elements without a clear, uniform
-            arrangement requiring transformation before mathematical operations
-            can be applied. In Statistics, examples of unstructured datasets
-            would be data that cannot be directly used in standard statistical
-            tables or models, e.g. images, audio, video, or text such as written
-            customer reviews that require sentiment scores.
+          desc: An unstructured dataset is a collection of data that doesn’t follow a fixed row-and-column format. The information may be text, images, audio, video, or logs. It often requires preprocessing, parsing, or feature extraction to make it usable in analysis or computation. In Coding, examples of a unstructured datasets would be text documents, emails, social media posts, images, audio/video files, or JSON files without a strict schema. In Mathematics, examples of a unstructured datasets would be a set of elements without a clear, uniform arrangement requiring transformation before mathematical operations can be applied. In Statistics, examples of unstructured datasets would be data that cannot be directly used in standard statistical tables or models, e.g. images, audio, video, or text such as written customer reviews that require sentiment scores.
           see:
             - Dataset
             - Structured Dataset
