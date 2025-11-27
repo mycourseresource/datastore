@@ -54,7 +54,8 @@ ct:
         - 5N2066
     - term: Numerical Data
       desc: "aka: Quantitative Data"
-      see: Quantitative Data
+      see: 
+        - Quantitative Data
       code:
         - 5N18396
         - 5N2066
@@ -71,7 +72,8 @@ ct:
         - 5N2066  
     - term: Metainformation
       desc: "aka: Metadata"
-      see: Metadata
+      see: 
+        - Metadata
       code:
         - 5N18396
         - 5N2927
@@ -82,7 +84,8 @@ ct:
         - AI
     - term: NLP
       desc: "abbr: Natural Language Processing"
-      see: Natural Language Processing (NLP)
+      see: 
+        - Natural Language Processing (NLP)
       code:
         - AI
     - term: Motherboard
@@ -91,14 +94,16 @@ ct:
         - 5N0548see
     - term: AI
       desc: "abbr: Artificial Intelligence"
-      see: Artificial Intelligence (AI)
+      see: 
+        - Artificial Intelligence (AI)
       code:
         - AI
     - term: Artificial Intelligence (AI)
       desc: The field of computer science focusing on creating systems that can perform tasks normally requiring human intelligence such as understanding language, recognizing patterns, making decisions, and solving problems. It uses data and algorithms to learn from experience, adapt to new information, and improve performance over time.
     - term: Gen AI
       desc: "abbr: Generative AI"
-      see: Generative AI (Gen AI)
+      see: 
+        - Generative AI (Gen AI)
       code:
         - AI
     - term: Generative AI (Gen AI)
@@ -107,7 +112,8 @@ ct:
         - AI
     - term: MLOps
       desc: "abbr: Machine Learning Operations"
-      see: Machine Learning Operations (MLOps)
+      see: 
+        - Machine Learning Operations (MLOps)
       code:
         - AI
     - term: Machine Learning Operations (MLOps)
@@ -120,17 +126,20 @@ ct:
         - 5N2066
     - term: DIKW Hierarchy
       desc: "aka: DIKW Pyramid"
-      see: DIKW Pyramid
+      see: 
+        - DIKW Pyramid
       code:
         - 5N2066see
     - term: MLB
       desc: "abbr: Main Logic Board"
-      see: Main Logic Board (MLB)
+      see: 
+        - Main Logic Board (MLB)
       code:
         - 5N0583
     - term: Main Logic Board (MLB)
       desc: "aka: Motherboard"
-      see: Motherboard
+      see: 
+        - Motherboard
       code:
         - 5N0583
     - term: Hypervisor
@@ -148,13 +157,15 @@ ct:
         - 6N1411
     - term: Bare-Metal Hypervisor
       desc: "aka: Hypervisor 1" 
-      see: Hypervisor 1
+      see: 
+        - Hypervisor 1
       code:
         - 5N2927
         - 6N1411
     - term: Native Hypervisor
       desc: "aka: Hypervisor 1"
-      see: Hypervisor 1
+      see: 
+        - Hypervisor 1
       code:
         - 5N2927
         - 6N1411
@@ -165,13 +176,15 @@ ct:
         - 6N1411
     - term: Embedded Hypervisor
       desc: "aka: Hypervisor 2"
-      see: Hypervisor 2
+      see: 
+        - Hypervisor 2
       code:
         - 5N2927
         - 6N1411
     - term: Hosted Hypervisor
       desc: "aka: Hypervisor 2"
-      see: Hypervisor 2
+      see: 
+        - Hypervisor 2
       code:
         - 5N2927
         - 6N1411
@@ -200,7 +213,8 @@ ct:
         - 6N2093
     - term: DHCP
       desc: "abbr: Dynamic Host Configurations Protocol"
-      see: Dynamic Host Configurations Protocol (DHCP)
+      see: 
+        - Dynamic Host Configurations Protocol (DHCP)
       code:
         - 5N0548
         - 5N0583
@@ -248,3 +262,54 @@ ct:
         - 6N2093
         - 6N1411
         - 6N1294
+    - term: FTP
+      desc: "abbr: File Transfer Protocol"
+      see: 
+        - File Transfer Protocol (FTP)
+      code:
+        - 6N0733
+        - 6N0720
+        - 6N2093
+        - 6N1294
+        - 5N2929
+        - 5N2928
+        - 5N2434
+    - term: File Transfer Protocol (FTP)
+      desc: Protocol that allows a client to download and upload a file over the internet from a server.
+      code:
+        - 6N0733
+        - 6N0720
+        - 6N2093
+        - 6N1294
+        - 5N2929
+        - 5N2928
+        - 5N2434
+    - term: DNS
+      desc: "abbr: Domain Name System"
+      see: 
+        - Domain Name System (DNS)
+      code:
+        - 6N0733
+        - 6N0720
+        - 6N2093
+        - 6N1411
+        - 6N1294
+        - 5N0583
+        - 5N2928
+        - 5N2929
+        - 5N2434
+    - term: Domain Name System (DNS)
+      desc: Translates domain names into a IP address allowing clients to access websites or other network devices with a domain name.
+      code:
+        - 6N0733
+        - 6N0720
+        - 6N2093
+        - 6N1411
+        - 6N1294
+        - 5N0583
+        - 5N2928
+        - 5N2929
+        - 5N2434
+
+
+
