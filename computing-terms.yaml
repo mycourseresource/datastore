@@ -310,6 +310,120 @@ ct:
         - 5N2928
         - 5N2929
         - 5N2434
-
-
-
+    - term: SSH
+      desc: "abbr: Secure Shell"
+      see: 
+        - Secure Shell (SSH)
+      code:
+        - 6N0733
+        - 6N0735
+        - 6N0720
+        - 6N2093
+        - 6N1411
+        - 6N1294
+        - 5N0583
+        - 5N2928
+        - 5N2929
+        - 5N2434
+    - term: Secure Shell (SSH)
+      desc: A network communication protocol allowing two computers to communicate and share data.
+      code:
+        - 6N0733
+        - 6N0735
+        - 6N0720
+        - 6N2093
+        - 6N1411
+        - 6N1294
+        - 5N0583
+        - 5N2928
+        - 5N2929
+        - 5N2434
+    - term: IPS
+      desc: "abbr: Intrusion Prevention System"
+      see:
+        - Intrusion Prevention System (IPS)
+      code:
+        - 5N0583
+        - 6N0720
+        - 6N0733
+        - 6N0735
+        - 6N1294
+        - 6N1411
+    - term: Intrusion Prevention System (IPS)
+      desc: A network tool that continuously monitors a network for malicious activity and takes action to prevent it.
+      code:
+        - 5N0583
+        - 6N0720
+        - 6N0733
+        - 6N0735
+        - 6N1294
+        - 6N1411
+    - term: API
+      desc: "abbr: Application Programming Interface"
+      see: 
+        - Application Programming Interface (API)
+      code: 
+        - 5N2927
+        - 5N2434
+        - 6N0735
+        - 6N1294
+        - 6N1411
+        - 5N18396
+        - 5N2066
+    - term: Application Programming Interface (API)
+      desc: A type of software interface that allows two or more computer applications to communicate with each other.
+      code:
+        - 5N2927
+        - 5N2434
+        - 6N0735
+        - 6N1294
+        - 6N1411
+        - 5N18396
+        - 5N2066
+    - term: Wi-Fi
+      desc: "abbr: Wireless Fidelity"
+      see:
+        - Wireless Fidelity (Wi-Fi)
+      code:
+        - 5N0548
+        - 5N0583
+        - 5N2927
+        - 5N2929
+        - 6N0720
+        - 6N0733
+        - 6N0735
+        - 6N2093
+    - term: Wireless Fidelity (Wi-Fi)
+      desc: Wireless network protocols commonly used for local area networking of computers and other Wi-Fi enabled electronic equipment.
+      code:
+        - 5N0548
+        - 5N0583
+        - 5N2927
+        - 5N2929
+        - 6N0720
+        - 6N0733
+        - 6N0735
+        - 6N2093
+    - term: Mainframe
+      desc: A high-performance computer with very large amounts of memory and data processors, capable to process billions of simple calculations and transactions in real-time. Used for commercial databases, transaction servers and applications that require high resiliency, security and agility.
+      code:
+        - 5N0548
+        - 5N2927
+        - 5N2929
+        - 6N0735
+    - term: Workstation
+      desc: A computer systems that are specifically designed and configured to meet the most demanding professional workloads and workflows, with defined features relating to performance, reliability, data integrity, scalability, and expandability.
+      code:
+        - 5N0548
+        - 5N2927
+        - 5N2929
+        - 6N0735
+    - term: Dataset
+      desc: A structured collection of data. It typically contains multiple rows (observations) and multiple columns(values or attributes). In Coding, an example of a dataset could be a CSV file containing customer names, ages, and purchases. In Mathematics, an example of a dataset could be a finite set of numbers. In Statistics, an example of a dataset could be a table where each row is a person and each column is a characteristic (e.g., height, age, income).
+      see:
+        - Structured Dataset
+        - Unstructured Dataset
+      code:
+        - 5N18396
+        - 5N2927
+        - 5N2066
