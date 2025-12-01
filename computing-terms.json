@@ -92,6 +92,31 @@
         ],
         "data": [
             {
+                "term": "MLO",
+                "desc": "abbr: Multilink Operation",
+                "see": [
+                    "Multilink Operation (MLO)"
+                ],
+                "code": [
+                    "6N2093",
+                    "6N0733",
+                    "6N0720",
+                    "5N2929",
+                    "5N0548"
+                ]
+            },
+            {
+                "term": "Multilink Operation (MLO)",
+                "desc": "Wi-Fi 7 introduced MLO, allowing a Wi-Fi device to simultaneously use multiple frequency bands or channels (e.g., 2.4 GHz, 5 GHz, or 6 GHz) to send and receive data.",
+                "code": [
+                    "6N2093",
+                    "6N0733",
+                    "6N0720",
+                    "5N2929",
+                    "5N0548"
+                ]
+            },
+            {
                 "term": "Quantitative Data",
                 "desc": "Data that is measurable and expressed in numbers. It represents quantities, amounts, or frequencies and can be analyzed statistically.",
                 "code": [
