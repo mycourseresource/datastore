@@ -5,17 +5,17 @@ ct:
   updated: 26/11/2025 13:29
   format: English
   required_keys:
-    - term: 
+    - key: term
       purpose: The actual term.
-    - desc:
+    - key: desc
       purpose: The description for the term. If applicable, include the the abbreviation or acronym in parentheses, e.g. "Wireless Fidelity (Wi-Fi)".
       defined_format_options:
         - abbr: "Identified term as abbreviation or acronym, e.g. \"abbr: File Transfer Protocol (FTP)\". The 'see' key for further lookup is optional."
         - aka: "Identifies term as also known as, e.g. \"aka: Main Logic Board (MLB)\". Will require the 'see' key for further lookup."
-    - code:
+    - key: code
       purpose: Links term with a module.
   optional_keys:
-    - see:
+    - key: see
       purpose: Listing of Related Term(s)
   modules:
     - code: 5N0548
