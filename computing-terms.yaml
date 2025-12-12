@@ -48,7 +48,7 @@ ct:
       title: AI Terms
   data:
     - term: MLO
-      desc: abbr: Multilink Operation
+      desc: "abbr: Multilink Operation"
       see:
         - Multilink Operation (MLO)
       code:
