@@ -463,3 +463,23 @@ ct:
         - 5N18396
         - 5N2927
         - 5N2066
+    - term: EULA
+      desc: "abbr: End-User License Agreement"
+      see: 
+        - End-User License Agreement (EULA)
+      code: 
+        - 5N0548
+        - 5N0583
+        - 5N2434
+        - 5N2927
+        - 6N1294
+        - 6N1411
+    - term: End-User License Agreement (EULA)
+      desc: A legal contract between a software provider and a end-user, outlining the specific terms, conditions, and restrictions for the use of the software or digital service. 
+      code:
+        - 5N0548
+        - 5N0583
+        - 5N2434
+        - 5N2927
+        - 6N1294
+        - 6N1411
