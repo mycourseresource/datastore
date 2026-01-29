@@ -483,3 +483,18 @@ ct:
         - 5N2927
         - 6N1294
         - 6N1411
+
+
+
+    - term: IPO Cycle
+      desc: "abbr: Input-Process-Output Cycle"
+      see: 
+        - Input-Process-Output Cycle (IPO Cycle)
+      code: 
+        - 5N18396
+        - 5N2927
+    - term: Input-Process-Output Cycle (IPO Cycle)
+      desc: A fundamental concept in computing that describes the logical sequence of steps by which a computer takes an input, processes it, and produces a meaningful output.
+      code:
+        - 5N18396
+        - 5N2927
