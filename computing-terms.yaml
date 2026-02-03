@@ -484,8 +484,55 @@ ct:
         - 6N1294
         - 6N1411
 
-
-
+    - term: Rich Client
+      desc: "aka: Thick Client"
+      see: 
+        - Thick Client
+      code:
+        - 6N1411
+        - 6N1294
+        - 6N0733
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0548
+    - term: Fat Client
+      desc: "aka: Thick Client"
+      see: 
+        - Thick Client
+      code:
+        - 6N1411
+        - 6N1294
+        - 6N0733
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0548
+    - term: Thick Client
+      desc: A computer system or software application that performs the majority of its processing locally, possessing its own operating system, CPU, and storage, which enables it to run independently and support rich user interfaces or resource-intensive tasks.
+      see:
+        - Thin Client
+      code:
+        - 6N1411
+        - 6N1294
+        - 6N0733
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0548
+    - term: Thin Client
+      desc: A computer system or software application that relies primarily on a remote server for processing, storage, and application execution, with local resources limited to basic input/output, networking, and user interface rendering.
+      see:
+        - Thick Client
+      code:
+        - 6N1411
+        - 6N1294
+        - 6N0733
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0548
+        
     - term: IPO Cycle
       desc: "abbr: Input-Process-Output Cycle"
       see: 
