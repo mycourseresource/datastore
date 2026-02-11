@@ -483,7 +483,104 @@ ct:
         - 5N2927
         - 6N1294
         - 6N1411
-
+    - term: Selection Structure
+      desc: A selection structure makes decisions in a program. It is a control structure that allows a program to choose between different paths of execution based on a condition.
+      see:
+        - Simple Selection
+        - Double Selection
+        - Multiple Selection
+        - Control Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Simple Selection
+      desc: A ...
+      see:
+        - Double Selection
+        - Multiple Selection
+        - Selection Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Double Selection
+      desc: A ...
+      see:
+        - Simple Selection
+        - Multiple Selection
+        - Selection Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Multiple Selection
+      desc: A ...
+      see:
+        - Simple Selection
+        - Double Selection
+        - Selection Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Control Structure
+      desc: A ...
+      see:
+        - Sequential Structure
+        - Selection Structure
+        - Iterative Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Sequential Control
+      desc: A ...
+      see:
+        - Control Structure
+        - Selection Structure
+        - Iterative Control
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Iterative Structure
+      desc: A ...
+      see:
+        - Control Structure
+        - Sequential Control
+        - Selection Structure
+        - Iterative Control
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Sequential Control
+      desc: The concept that dictates program flow of executing statements in sequential order.
+      see:
+        - Sequential Structure
+        - Selection Control
+        - Selection Structure
+        - Iterative Control
+        - Iterative Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Selection Control
+      desc: The concept that dictates program flow of choosing a path based on a condition.
+      see:
+        - Selection Structure
+        - Sequential Control
+        - Sequential Structure
+        - Iterative Control
+        - Iterative Structure
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Iterative Control
+      desc: The concept that dictates program flow of repeating a block of code until a condition is met.
+      see:
+        - Iterative Structure
+        - Sequential Control
+        - Sequential Structure
+        - Selection Control
+        - Selection Structure
+      code:
+        - 5N18396
+        - 5N2927
     - term: Dummy Terminal
       desc: "aka: Dumb Terminal"
       see: 
