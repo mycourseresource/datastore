@@ -490,11 +490,12 @@ ct:
         - Double Selection
         - Multiple Selection
         - Control Structure
+        - Selection Control
       code:
         - 5N18396
         - 5N2927
     - term: Simple Selection
-      desc: A ...
+      desc: A selection structure that executes a block of code only if a condition is true (if statement).
       see:
         - Double Selection
         - Multiple Selection
@@ -503,7 +504,7 @@ ct:
         - 5N18396
         - 5N2927
     - term: Double Selection
-      desc: A ...
+      desc: A selection structure that chooses to execute between two block of code alternatives (if-else statement).
       see:
         - Simple Selection
         - Multiple Selection
@@ -512,7 +513,7 @@ ct:
         - 5N18396
         - 5N2927
     - term: Multiple Selection
-      desc: A ...
+      desc: A selection structure that chooses to executes between many possible block of code alternatives (if-alternative if-else statement / e.g. in Python: if-elif-else statement).
       see:
         - Simple Selection
         - Double Selection
@@ -521,30 +522,37 @@ ct:
         - 5N18396
         - 5N2927
     - term: Control Structure
-      desc: A ...
+      desc: A structure controlling the order that instructions are executed in a program.
       see:
         - Sequential Structure
+        - Sequential Control
         - Selection Structure
+        - Selection Control
         - Iterative Structure
+        - Iterative Control
       code:
         - 5N18396
         - 5N2927
-    - term: Sequential Control
-      desc: A ...
+    - term: Sequential Structure
+      desc: A selection structure where program statements are executed one after another, in the order they appear.
       see:
         - Control Structure
-        - Selection Structure
-        - Iterative Control
+        - Sequential Control
       code:
         - 5N18396
         - 5N2927
     - term: Iterative Structure
-      desc: A ...
+      desc: A selection structure where a block of code is repeated multiple times, usually until a condition is met. It is also called looping structure.
       see:
         - Control Structure
-        - Sequential Control
-        - Selection Structure
         - Iterative Control
+      code:
+        - 5N18396
+        - 5N2927
+    - term: Looping Structure
+      desc: "aka: Iterative Structure"
+      see:
+        - Iterative Structure
       code:
         - 5N18396
         - 5N2927
@@ -656,7 +664,6 @@ ct:
         - 5N2927
         - 5N2434
         - 5N0548
-        
     - term: IPO Cycle
       desc: "abbr: Input-Process-Output Cycle"
       see: 
