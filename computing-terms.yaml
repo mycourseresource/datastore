@@ -664,6 +664,30 @@ ct:
         - 5N2927
         - 5N2434
         - 5N0548
+    - term: SSO
+      desc: "abbr: Single Sign-On"
+      see: 
+        - Single Sign-On (SSO)
+      code: 
+        - 6N1411
+        - 6N1294
+        - 6N0735
+        - 6N0720
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0583
+    - term: Single Sign-On (SSO)
+      desc: An authentication method that allows users to log in and gain access to multiple systems with a single ID that is managed by centralized authentication servers.
+      code:
+        - 6N1411
+        - 6N1294
+        - 6N0735
+        - 6N0720
+        - 5N2929
+        - 5N2927
+        - 5N2434
+        - 5N0583
     - term: IPO Cycle
       desc: "abbr: Input-Process-Output Cycle"
       see: 
