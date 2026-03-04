@@ -65,6 +65,62 @@ ct:
         - 6N0720
         - 5N2929
         - 5N0548    
+    - term: Measures of Average
+      desc: "aka: Measures of Central Tendency"
+      see: 
+        - Measures of Central Tendency
+        - Mean
+        - Median
+        - Mode
+      code:
+        - 5N2066
+        - 5N18396
+    - term: Averages
+      desc: "aka: Measures of Central Tendency"
+      see: 
+        - Measures of Central Tendency
+        - Mean
+        - Median
+        - Mode
+      code:
+        - 5N2066
+        - 5N18396
+    - term: Measures of Central Tendency
+      desc: Statistics that describe the centre or typical value of a data set. The main measures of central tendency are the mean (average), median (middle value), and mode (most frequent value).
+      see: 
+        - Mean
+        - Median
+        - Mode
+      code:
+        - 5N2066
+        - 5N18396
+    - term: Mean
+      desc: The average of a set of numbers, found by adding all the values together and dividing by the total count of values.
+      see: 
+        - Measures of Central Tendency
+        - Median
+        - Mode
+      code:
+        - 5N2066
+        - 5N18396
+    - term: Median
+      desc: The middle value in a data set after the values have been arranged in order from smallest to largest. If there is an even number of values, the median is the mean of the two middle values.
+      see: 
+        - Measures of Central Tendency
+        - Mean
+        - Mode
+      code:
+        - 5N2066
+        - 5N18396
+    - term: Mode
+      desc: The value that appears most frequently in a data set. A data set may have one mode, more than one mode, or no mode if no values repeat.
+      see: 
+        - Measures of Central Tendency
+        - Mean
+        - Median
+      code:
+        - 5N2066
+        - 5N18396
     - term: Quantitative Data
       desc: Data that is measurable and expressed in numbers. It represents quantities, amounts, or frequencies and can be analyzed statistically.
       code:
