@@ -569,7 +569,7 @@ ct:
         - 5N18396
         - 5N2927
     - term: Multiple Selection
-      desc: A selection structure that chooses to executes between many possible block of code alternatives (if-alternative if-else statement / e.g. in Python: if-elif-else statement).
+      desc: "A selection structure that chooses to executes between many possible block of code alternatives (if-alternative if-else statement / e.g. in Python: if-elif-else statement)."
       see:
         - Simple Selection
         - Double Selection
